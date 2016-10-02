@@ -1,4 +1,21 @@
 
 Loan Contract
+<form>
+  <fieldset class="form-group">
+    <div class="form-check">
+      <label class="form-check-label">
+      	<textarea class="form-control" rows="6" id="comment" placeholder="
+I promise to pay $100 on the first day of each month [500] until the loan is paid in full
+I promise that all information I provided in the loan application is accurate and truthful"></textarea>
+        <input type="radio" class="form-check-input" id="optionsRadios1">
+        Do you  agree to share this personal data for purpose of risk assessment to provide me a loan
+      </label>
+    </div>
+  <button type="submit" class="btn btn-primary"><%= link_to("Agrrements", payments_path, class: "btn") %></button>
+<p id="demo"></p>
+</script>
 
-<%= link_to("Agrrements", payments_path, class: "btn") %>
+ 
+</form>
+
+

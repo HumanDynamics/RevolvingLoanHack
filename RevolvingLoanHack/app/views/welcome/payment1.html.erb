@@ -492,7 +492,12 @@ hr{
                 
                 </form>
             </div>
+
             <div class="row cart-footer">
-        <%= link_to("Track",  track_path, class: "btn") %>
+        <input type="radio" class="form-check-input" id="optionsRadios1">
+      Pay from the total amount from previous card on hold
+      </label>
+    </div>
+        <%= link_to("Pay Full Amount",  track_path, class: "btn") %>
             </div>
     </div>
