@@ -51,7 +51,11 @@
             
               <% if user_signed_in? %>
               <li><%= link_to "Form", form_path  %></li>
+               
+               <li><%= link_to "Contact", charts1_path  %></li>
+               <li><%= link_to "Track Progress", track_path  %></li>
                <li><%= link_to 'Log out', destroy_user_session_path , method: :delete %></li>
+
             <% else %>
             <li><%= link_to 'Sign In', new_user_session_path  %></li>
             <% end %>
@@ -72,7 +76,7 @@
       </div><!--/row-->
 
       <footer>
-        <p>&copy; Company 2016</p>
+        <p>&copy; Company Ashish Ranjan</p>
       </footer>
 
     </div> <!-- /container -->

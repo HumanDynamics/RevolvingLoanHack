@@ -6,5 +6,9 @@ def new
 
 end
 
+def payment1
+end
 
+def track 
+end
 end
