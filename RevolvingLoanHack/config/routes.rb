@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get '/charts1', to:"welcome#contract1"
   get '/payments', to: "welcome#payment1"
   get '/track', to:"welcome#track"
+  get '/loans', to:"welcome#loan"
 end

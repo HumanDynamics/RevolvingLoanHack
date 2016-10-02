@@ -11,4 +11,7 @@ end
 
 def track 
 end
+
+def loans
+end
 end
