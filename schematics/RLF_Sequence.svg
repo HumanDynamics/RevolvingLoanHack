@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="12" width="977" height="1219">
+	<desc>Flowchart diagram model</desc>
+	<g id="_oVSnAoiwEeaHjIRlzIXo2w">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#E5E5E5" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="EndShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FF0000" stop-opacity="1" />
+				<stop offset="100%" stop-color="#900000" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="StartShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#c2e08f" stop-opacity="1" />
+				<stop offset="100%" stop-color="#7ec601" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="StoredDataShapeWidget" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#fff9c2" stop-opacity="1" />
+				<stop offset="100%" stop-color="#FFF" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="DecisionShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#EBE9F9" stop-opacity="1" />
+				<stop offset="100%" stop-color="#C1BFEA" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="ActionShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#B3E0FF" stop-opacity="1" />
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_eTDkYGrgEDSAMPC5-Rnt2A" transform="translate(567 406)">
+			<path d="M55.0 1L109 55.0L55.0 109L1 55.0L55.0 1" fill="url(#DecisionShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="48" text-anchor="middle" fill="#000000">
+				<tspan x="56" dy="12">Loan Decision</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTELcGrgEDSAMPC5-Rnt2A" transform="translate(777 660)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTELcWrgEDSAMPC5-Rnt2A" transform="translate(557 570)">
+			<rect x="0" y="0" width="130" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="66" dy="12">Send &quot;Automated</tspan>
+				<tspan x="66" dy="12">Loan Contract&quot;</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTELcmrgEDSAMPC5-Rnt2A">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="322,20 322,59 457,59 457,35 442,20 " />
+			<text x="326" y="25" fill="#2D2D2D">
+				<tspan x="326" y="37" font-size="12">Borrower</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="442,20 442,35 457,35 " />
+			
+		</g>
+		<g id="_eTELc2rgEDSAMPC5-Rnt2A">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="567,20 567,59 683,59 683,35 668,20 " />
+			<text x="571" y="25" fill="#2D2D2D">
+				<tspan x="571" y="37" font-size="12">Lender</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="668,20 668,35 683,35 " />
+			
+		</g>
+		<g id="_eTELdGrgEDSAMPC5-Rnt2A">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="795,20 795,60 900,60 900,35 885,20 " />
+			<text x="799" y="25" fill="#2D2D2D">
+				<tspan x="799" y="37" font-size="12">Blockchains</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="885,20 885,35 900,35 " />
+			
+		</g>
+		<g id="_eTEygGrgEDSAMPC5-Rnt2A">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="50,20 50,59 196,59 196,35 181,20 " />
+			<text x="54" y="25" fill="#2D2D2D">
+				<tspan x="54" y="37" font-size="12">Personal Data      </tspan>
+				<tspan x="54" y="49" font-size="12">Service Providers</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="181,20 181,35 196,35 " />
+			
+		</g>
+		<g id="_eTEygWrgEDSAMPC5-Rnt2A" transform="translate(317 82)">
+			<rect x="0" y="0" width="140" height="70" rx="35" ry="35" fill="url(#StartShapeWidget)" stroke="#888888" stroke-width="1" />
+			<path fill="url(#StartShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="22" text-anchor="middle" fill="#000000">
+				<tspan x="71" dy="12">Complete Loan</tspan>
+				<tspan x="71" dy="12">Application</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTEygmrgEDSAMPC5-Rnt2A" transform="translate(337 570)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Send Signed</tspan>
+				<tspan x="51" dy="12">Contract</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTGAoGrgEDSAMPC5-Rnt2A" transform="translate(577 650)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="13" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Originate Loan</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTHOwGrgEDSAMPC5-Rnt2A" transform="translate(337 740)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="13" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Receive Funds</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTHOwmrgEDSAMPC5-Rnt2A" transform="translate(337 810)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Make First</tspan>
+				<tspan x="51" dy="12">Payment</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTHOxGrgEDSAMPC5-Rnt2A" transform="translate(577 810)">
+			<path d="M18.75 1L99 1C81.25 1 81.25 49 99 49L18.75 49C1 49 1 1 18.75 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="46" dy="12">Record</tspan>
+				<tspan x="46" dy="12">Payment1</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTHOxmrgEDSAMPC5-Rnt2A" transform="translate(777 820)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)2</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTH10WrgEDSAMPC5-Rnt2A" transform="translate(337 870)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Make &apos;N&apos;</tspan>
+				<tspan x="51" dy="12">Payment</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTH10mrgEDSAMPC5-Rnt2A" transform="translate(577 870)">
+			<path d="M18.75 1L99 1C81.25 1 81.25 49 99 49L18.75 49C1 49 1 1 18.75 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="46" dy="12">Record</tspan>
+				<tspan x="46" dy="12">Payment2</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTH11GrgEDSAMPC5-Rnt2A" transform="translate(777 880)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)22</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTIc4GrgEDSAMPC5-Rnt2A" transform="translate(337 940)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Make Final</tspan>
+				<tspan x="51" dy="12">Payment</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTIc4WrgEDSAMPC5-Rnt2A" transform="translate(577 930)">
+			<path d="M18.75 1L99 1C81.25 1 81.25 49 99 49L18.75 49C1 49 1 1 18.75 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="46" dy="12">Record</tspan>
+				<tspan x="46" dy="12">Payment3</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTIc42rgEDSAMPC5-Rnt2A" transform="translate(777 950)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)23</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTMHQWrgEDSAMPC5-Rnt2A" transform="translate(577 1020)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Acknowledge</tspan>
+				<tspan x="51" dy="12">loan paid off</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTMuUGrgEDSAMPC5-Rnt2A" transform="translate(777 1030)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)232</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTN8cWrgEDSAMPC5-Rnt2A" transform="translate(327 186)">
+			<path d="M55.0 1L109 55.0L55.0 109L1 55.0L55.0 1" fill="url(#DecisionShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="42" text-anchor="middle" fill="#000000">
+				<tspan x="56" dy="12">Share Personal</tspan>
+				<tspan x="56" dy="12">Data</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTN8c2rgEDSAMPC5-Rnt2A" transform="translate(50 288)">
+			<rect x="0" y="0" width="187" height="70" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="22" text-anchor="middle" fill="#000000">
+				<tspan x="94" dy="12">Authorize Lender to Access</tspan>
+				<tspan x="94" dy="12">Borrower&apos;s Personal Data</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTN8dWrgEDSAMPC5-Rnt2A" transform="translate(567 293)">
+			<rect x="0" y="0" width="110" height="60" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="17" text-anchor="middle" fill="#000000">
+				<tspan x="56" dy="12">Process Loan</tspan>
+				<tspan x="56" dy="12">Application</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTOjgWrgEDSAMPC5-Rnt2A" transform="translate(310 1099)">
+			<rect x="0" y="0" width="155" height="80" rx="40" ry="40" fill="url(#EndShapeWidget)" stroke="#888888" stroke-width="1" />
+			<path fill="url(#EndShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="21" text-anchor="middle" fill="#FFF">
+				<tspan x="78" dy="12">Receive</tspan>
+				<tspan x="78" dy="12">acknowledgement that</tspan>
+				<tspan x="78" dy="12">debt is discharged</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTOjg2rgEDSAMPC5-Rnt2A" transform="translate(337 441)">
+			<rect x="0" y="0" width="100" height="40" rx="20" ry="20" fill="url(#EndShapeWidget)" stroke="#888888" stroke-width="1" />
+			<path fill="url(#EndShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="7" text-anchor="middle" fill="#FFF">
+				<tspan x="51" dy="12">Application</tspan>
+				<tspan x="51" dy="12">Termination</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_eTEyg2rgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="622.5,516.5 622.5,570.5" />
+			<g transform="translate(622.5,570.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTEyhGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="557.5,590.5 437.5,590.5" />
+			<g transform="translate(437.5,590.5)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTGAoWrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="387.5,610.5 387,670" />
+			
+		</g>
+		<g id="_eTGAoWrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="387,670 577.5,670.5" />
+			<g transform="translate(577.5,670.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTGnsGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="677.5,671.5 777.5,673.5" />
+			<g transform="translate(777.5,673.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTHOwWrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="627.5,690.5 627,760" />
+			
+		</g>
+		<g id="_eTHOwWrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="627,760 437.5,760.5" />
+			<g transform="translate(437.5,760.5)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTHOw2rgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="387.5,780.5 387.5,810.5" />
+			<g transform="translate(387.5,810.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTHOxWrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="437.5,831.5 577.5,833.5" />
+			<g transform="translate(577.5,833.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTH10GrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="677.5,835.5 777.5,835.5" />
+			<g transform="translate(777.5,835.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTH102rgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="437.5,891.5 577.5,893.5" />
+			<g transform="translate(577.5,893.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTH11WrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="677.5,895.5 777.5,895.5" />
+			<g transform="translate(777.5,895.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTIc4mrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="437.5,958.5 577.5,956.5" />
+			<g transform="translate(577.5,956.5)">
+				<g transform="rotate(89)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTIc5GrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="677.5,957.5 777.5,961.5" />
+			<g transform="translate(777.5,961.5)">
+				<g transform="rotate(92)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTMHQGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="387.5,910.5 387.5,940.5" />
+			<g transform="translate(387.5,940.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTMHQmrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="627.5,980.5 627.5,1020.5" />
+			<g transform="translate(627.5,1020.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTN8cGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="677.5,1041.5 777.5,1043.5" />
+			<g transform="translate(777.5,1043.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTN8cmrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="385.5,152.5 384.5,186.5" />
+			<g transform="translate(384.5,186.5)">
+				<g transform="rotate(-178)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTN8dGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="327.5,259.5 237.5,290.5" />
+			<g transform="translate(237.5,290.5)">
+				<g transform="rotate(-109)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTN8dmrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="237.5,323.5 567.5,323.5" />
+			<g transform="translate(567.5,323.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTOjgGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="622.5,353.5 622.5,406.5" />
+			<g transform="translate(622.5,406.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTOjgmrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="627.5,1060.5 627,1140" />
+			
+		</g>
+		<g id="_eTOjgmrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="627,1140 465.5,1139.5" />
+			<g transform="translate(465.5,1139.5)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTPKkGrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="567.5,461.5 437.5,461.5" />
+			<g transform="translate(437.5,461.5)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTH11mrgEDSAMPC5-Rnt2A">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="387.5,850.5 387.5,870.5" />
+			<g transform="translate(387.5,870.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<text x="629" y="538" font-size="13" fill="#000000">Yes</text>
+		<text x="525" y="739" font-size="13" fill="#000000">Disburse Funds</text>
+		<text x="514" y="827" font-size="13" fill="#000000"></text>
+		<text x="734" y="830" font-size="13" fill="#000000"></text>
+		<text x="514" y="887" font-size="13" fill="#000000"></text>
+		<text x="734" y="890" font-size="13" fill="#000000"></text>
+		<text x="514" y="952" font-size="13" fill="#000000"></text>
+		<text x="734" y="954" font-size="13" fill="#000000"></text>
+		<text x="344" y="154" font-size="13" fill="#000000"></text>
+		<text x="268" y="261" font-size="13" fill="#000000">Yes</text>
+		<text x="520" y="1164" font-size="13" fill="#000000">Send legal acknowledgement + address of blockchain entry</text>
+		<text x="487" y="455" font-size="13" fill="#000000">No</text>
+		<text x="629" y="375" font-size="13" fill="#000000"></text>
+		<text x="734" y="667" font-size="13" fill="#000000"></text>
+		<text x="504" y="585" font-size="13" fill="#000000"></text>
+		<text x="394" y="635" font-size="13" fill="#000000"></text>
+		<text x="394" y="790" font-size="13" fill="#000000"></text>
+		<text x="394" y="855" font-size="13" fill="#000000"></text>
+		<text x="394" y="920" font-size="13" fill="#000000"></text>
+		<text x="634" y="995" font-size="13" fill="#000000"></text>
+		<text x="734" y="1037" font-size="13" fill="#000000"></text>
+		<text x="409" y="318" font-size="13" fill="#000000"></text>
+		
+	</g>
+	
+</svg>
