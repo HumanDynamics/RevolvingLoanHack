@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="12" width="907" height="794">
+	<desc>Flowchart diagram model</desc>
+	<g id="_FNEIkoh6EeaHjIRlzIXo2w">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#E5E5E5" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="StartShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#c2e08f" stop-opacity="1" />
+				<stop offset="100%" stop-color="#7ec601" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="StoredDataShapeWidget" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#fff9c2" stop-opacity="1" />
+				<stop offset="100%" stop-color="#FFF" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="DecisionShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#EBE9F9" stop-opacity="1" />
+				<stop offset="100%" stop-color="#C1BFEA" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="ActionShapeWidget" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#B3E0FF" stop-opacity="1" />
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_WmsIsGqrEDSS7P50dZRPAw" transform="translate(527 70)">
+			<path d="M35.0 1L69 35.0L35.0 69L1 35.0L35.0 1" fill="url(#DecisionShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="22" text-anchor="middle" fill="#000000">
+				<tspan x="36" dy="12">Loan</tspan>
+				<tspan x="36" dy="12">Decision</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_fqCYgGqrEDSS7P50dZRPAw" transform="translate(707 280)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_UbNZgGq0EDSS7P50dZRPAw" transform="translate(497 190)">
+			<rect x="0" y="0" width="130" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="66" dy="12">Send &quot;Automated</tspan>
+				<tspan x="66" dy="12">Loan Contract&quot;</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_cySjwGq1EDSS7P50dZRPAw">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="297,20 297,60 402,60 402,35 387,20 " />
+			<text x="301" y="25" fill="#2D2D2D">
+				<tspan x="301" y="37" font-size="12">Borrower</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="387,20 387,35 402,35 " />
+			
+		</g>
+		<g id="_fAYzAGq1EDSS7P50dZRPAw">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="527,20 527,60 632,60 632,35 617,20 " />
+			<text x="531" y="25" fill="#2D2D2D">
+				<tspan x="531" y="37" font-size="12">Lender</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="617,20 617,35 632,35 " />
+			
+		</g>
+		<g id="_hay_8Gq1EDSS7P50dZRPAw">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="717,20 717,60 822,60 822,35 807,20 " />
+			<text x="721" y="25" fill="#2D2D2D">
+				<tspan x="721" y="37" font-size="12">Blockchains</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="807,20 807,35 822,35 " />
+			
+		</g>
+		<g id="_jqVZoGq1EDSS7P50dZRPAw">
+			<polygon fill="#FFFFFF" stroke-width="1" stroke="#888888" points="50,21 50,60 196,60 196,36 181,21 " />
+			<text x="54" y="26" fill="#2D2D2D">
+				<tspan x="54" y="38" font-size="12">Personal Data      </tspan>
+				<tspan x="54" y="50" font-size="12">Service Providers</tspan>
+				
+			</text>
+			<polygon fill="#888888" stroke-width="1" stroke="#888888" points="181,21 181,36 196,36 " />
+			
+		</g>
+		<g id="_5gEW0Gq1EDSS7P50dZRPAw" transform="translate(297 70)">
+			<rect x="0" y="0" width="100" height="51" rx="26" ry="26" fill="url(#StartShapeWidget)" stroke="#888888" stroke-width="1" />
+			<path fill="url(#StartShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="18" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Apply for Loan</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_Rg2PQGq2EDSS7P50dZRPAw" transform="translate(297 190)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Send Signed</tspan>
+				<tspan x="51" dy="12">Contract</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_fs96QGq3EDSS7P50dZRPAw" transform="translate(517 270)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="13" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Originate Loan</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_tPVTEGq3EDSS7P50dZRPAw" transform="translate(297 360)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="13" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Receive Funds</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_5utk4Gq3EDSS7P50dZRPAw" transform="translate(297 430)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Make First</tspan>
+				<tspan x="51" dy="12">Payment</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_M2V9EGq4EDSS7P50dZRPAw" transform="translate(517 430)">
+			<path d="M18.75 1L99 1C81.25 1 81.25 49 99 49L18.75 49C1 49 1 1 18.75 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="46" dy="12">Record</tspan>
+				<tspan x="46" dy="12">Payment1</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_YTk1YGq4EDSS7P50dZRPAw" transform="translate(707 440)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)2</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_czpuUGq4EDSS7P50dZRPAw" transform="translate(297 490)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Make &apos;N&apos;</tspan>
+				<tspan x="51" dy="12">Payment</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_czpuUWq4EDSS7P50dZRPAw" transform="translate(517 490)">
+			<path d="M18.75 1L99 1C81.25 1 81.25 49 99 49L18.75 49C1 49 1 1 18.75 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="46" dy="12">Record</tspan>
+				<tspan x="46" dy="12">Payment2</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_czpuU2q4EDSS7P50dZRPAw" transform="translate(707 500)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)22</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_imiS8Gq4EDSS7P50dZRPAw" transform="translate(297 560)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Make Final</tspan>
+				<tspan x="51" dy="12">Payment</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_imi6AGq4EDSS7P50dZRPAw" transform="translate(517 550)">
+			<path d="M18.75 1L99 1C81.25 1 81.25 49 99 49L18.75 49C1 49 1 1 18.75 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="46" dy="12">Record</tspan>
+				<tspan x="46" dy="12">Payment3</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_imi6Amq4EDSS7P50dZRPAw" transform="translate(707 570)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)23</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_sG4n0Gq4EDSS7P50dZRPAw" transform="translate(517 640)">
+			<rect x="0" y="0" width="100" height="40" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="7" text-anchor="middle" fill="#000000">
+				<tspan x="51" dy="12">Acknowledge</tspan>
+				<tspan x="51" dy="12">loan paid off</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_7-8ssGq4EDSS7P50dZRPAw" transform="translate(707 650)">
+			<path d="M10.875 1L159 1C149.125 1 149.125 28 159 28L10.875 28C1 28 1 1 10.875 1" fill="url(#StoredDataShapeWidget)" stroke-width="1" stroke="#888888" />
+			<text y="1" text-anchor="middle" fill="#000000">
+				<tspan x="78" dy="12">Record on Blockchain</tspan>
+				<tspan x="78" dy="12">(SHA 256)232</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_-d-T4Gq4EDSS7P50dZRPAw" transform="translate(267 700)">
+			<rect x="0" y="0" width="167" height="50" rx="0" ry="0" fill="url(#ActionShapeWidget)" stroke="#888888" stroke-width="1" />
+			<text y="12" text-anchor="middle" fill="#000000">
+				<tspan x="84" dy="12">Receive acknowledgement</tspan>
+				<tspan x="84" dy="12">that debt is discharged</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_zmSDgGq2EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="562.5,140.5 562.5,190.5" />
+			<g transform="translate(562.5,190.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="__c1awGq2EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="497.5,210.5 397.5,210.5" />
+			<g transform="translate(397.5,210.5)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_nnb2cGq3EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="347.5,230.5 347,290" />
+			
+		</g>
+		<g id="_oRnb4Gq3EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="617.5,291.5 707.5,293.5" />
+			<g transform="translate(707.5,293.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_nnb2cGq3EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="347,290 517.5,290.5" />
+			<g transform="translate(517.5,290.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_uRyOkGq3EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="567.5,310.5 567,380" />
+			
+		</g>
+		<g id="_uRyOkGq3EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="567,380 397.5,380.5" />
+			<g transform="translate(397.5,380.5)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_8SXNYGq3EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="347.5,400.5 347.5,430.5" />
+			<g transform="translate(347.5,430.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_OGCqYGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="397.5,451.5 517.5,453.5" />
+			<g transform="translate(517.5,453.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_ZGZZcGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="617.5,455.5 707.5,455.5" />
+			<g transform="translate(707.5,455.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_czpuUmq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="397.5,511.5 517.5,513.5" />
+			<g transform="translate(517.5,513.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_czpuVGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="617.5,515.5 707.5,515.5" />
+			<g transform="translate(707.5,515.5)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_hhCDcGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="347.5,470.5 347.5,490.5" />
+			<g transform="translate(347.5,490.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_imi6AWq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="397.5,578.5 517.5,576.5" />
+			<g transform="translate(517.5,576.5)">
+				<g transform="rotate(89)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_imi6A2q4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="617.5,577.5 707.5,581.5" />
+			<g transform="translate(707.5,581.5)">
+				<g transform="rotate(93)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_lRT3IGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="347.5,530.5 347.5,560.5" />
+			<g transform="translate(347.5,560.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_yQBwUGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="567.5,600.5 567.5,640.5" />
+			<g transform="translate(567.5,640.5)">
+				<g transform="rotate(-180)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_818mIGq4EDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="617.5,661.5 707.5,663.5" />
+			<g transform="translate(707.5,663.5)">
+				<g transform="rotate(91)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_hNvtgGrYEDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="567.5,680.5 567,730" />
+			
+		</g>
+		<g id="_hNvtgGrYEDSS7P50dZRPAw">
+			<polyline fill="none" stroke-width="1" stroke="#000" points="567,730 434.5,727.5" />
+			<g transform="translate(434.5,727.5)">
+				<g transform="rotate(-89)">
+					<polyline fill="none" stroke-width="1" stroke="#000" points="-5,10 0,0 5,10" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<text x="79" y="160" font-size="13" fill="#000000">Yes</text>
+		<text x="454" y="205" font-size="13" fill="#000000"></text>
+		<text x="354" y="255" font-size="13" fill="#000000"></text>
+		<text x="669" y="287" font-size="13" fill="#000000"></text>
+		<text x="465" y="359" font-size="13" fill="#000000">Disburse Funds</text>
+		<text x="354" y="410" font-size="13" fill="#000000"></text>
+		<text x="464" y="447" font-size="13" fill="#000000"></text>
+		<text x="669" y="450" font-size="13" fill="#000000"></text>
+		<text x="464" y="507" font-size="13" fill="#000000"></text>
+		<text x="669" y="510" font-size="13" fill="#000000"></text>
+		<text x="354" y="475" font-size="13" fill="#000000"></text>
+		<text x="464" y="572" font-size="13" fill="#000000"></text>
+		<text x="669" y="574" font-size="13" fill="#000000"></text>
+		<text x="354" y="540" font-size="13" fill="#000000"></text>
+		<text x="574" y="615" font-size="13" fill="#000000"></text>
+		<text x="669" y="657" font-size="13" fill="#000000"></text>
+		<text x="455" y="748" font-size="13" fill="#000000">Send legal acknowledgement + address of blockchain entry</text>
+		
+	</g>
+	
+</svg>
