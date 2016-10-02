@@ -48,9 +48,13 @@
         <a class="navbar-brand" href="#">RevolvingLoanHack</a>
         <div class="navbar-collapse collapse navbar-responsive-collapse">
           <ul class="nav navbar-nav">
-            <li><%= link_to "Link1", "/path1"  %></li>
-            <li><%= link_to "Link2", "/path2"  %></li>
-            <li><%= link_to "Link3", "/path3"  %></li>
+            
+              <% if user_signed_in? %>
+              <li><%= link_to "Form", form_path  %></li>
+               <li><%= link_to 'Log out', destroy_user_session_path , method: :delete %></li>
+            <% else %>
+            <li><%= link_to 'Sign In', new_user_session_path  %></li>
+            <% end %>
           </ul>
         </div>
       </div>
