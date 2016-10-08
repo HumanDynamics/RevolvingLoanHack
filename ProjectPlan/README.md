@@ -12,16 +12,11 @@ This format will be similar to the Automated Legal Entity format
 
 The purpose of this project is to rapidly prototype an "Automated Loan Fund" and dp a small-test at MIT at the end of 2016 and a field test in the DR early 2017. The final product will be tested with 2 out of 5 groups living on the border.
 
-# Link to Use Cases 
-Key Use Case 01: MIT 2016 
+# Use Cases and Hypthoses
 
-# Hypothesis
+See use cases and hypotheses here: 
+* https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/UseCases.md
 
-We believe that we can build an an initial rapid prototype and proof of concept test for the "Automated Loan Fund" to be completed and tested at MIT at the end of 2016 with a small number of participants/users. 
-We will proto
-We will know our hypothesis is valid when we are able to originate loans and  a functioning automated workflow process.
-
-# Use Case N:
 
 # Project Partners and Roles
 We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles) for the current email list of project contributors. Project leads are eligible to have a [public profile page](https://github.com/HumanDynamics/law.MIT.edu/tree/gh-pages/people) as a token of attribution and recognition of their contributions to this open source project.
