@@ -30,13 +30,14 @@ We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Bor
 # Project Milestones
 * "Kick Off" - MIT - Oct 17, 2016
 * Conduct Initial PoC Test - MIT - December 7, 2016
-* Final Presentation / Conduct Test - December 14, 2016
+* Final Presentation / Conduct Test - December 14, 2016 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FinalPresentation.md
 * Midproject Review and Feedback - Hangout - January, 2017
 * Review of Prototype Test Plan - Hangout - Dec, 2016
 * Field Testing - Dominican Republic - Jan, 2017
 * Final Project Presentation - MIT/Hangout - March 2017
 
 # Launch of the Proposed Project
+* September 15th 
 
 # Kick-Off Meeting/Event to Commence the Formal Phase of the Project: October 17
 * Agree to Project Plan (1 page Poc) and Agenda
