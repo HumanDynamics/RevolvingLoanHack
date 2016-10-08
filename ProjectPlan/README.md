@@ -12,14 +12,14 @@ Overview: Purpose and Intended Outcomes
 
 The purpose of this project is to rapidly prototype an "Automated Revolving Loan Fund" and do a small-test at MIT at the end of 2016 and a field test in the DR early 2017. The final product will be tested with 2 out of 5 groups living on the border.
 
-
-Key Use Case 01: MIT 2016
+Link to Use Cases 
+Key Use Case 01: MIT 2016 (
 
 Hypothesis
+
 We believe that we can build an an initial rapid prototype and proof of concept test for the "Automated Loan Fund" to be completed and tested at MIT at the end of 2016 with a small number of participants/users. 
 We will proto
 We will know our hypothesis is valid when we are able to originate loans and  a functioning automated workflow process.
-
 
 Use Case N:
 
