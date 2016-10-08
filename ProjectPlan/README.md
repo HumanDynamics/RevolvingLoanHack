@@ -18,8 +18,12 @@ See use cases and hypotheses here:
 * https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/UseCases.md
 
 
-# Project Partners and Roles
-We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles) for the current email list of project contributors. Project leads are eligible to have a [public profile page](https://github.com/HumanDynamics/law.MIT.edu/tree/gh-pages/people) as a token of attribution and recognition of their contributions to this open source project.
+# People and Roles
+We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles) and [Google spreadsheet](https://docs.google.com/spreadsheets/d/1eEJoSFyfizewewlS_0rmYCA8ZctYpNEtqoXGkfCWGPQ/edit#gid=158698474) for the current email list of project contributors. Project leads are eligible to have a [public profile page](https://github.com/HumanDynamics/law.MIT.edu/tree/gh-pages/people) as a token of attribution and recognition of their contributions to this open source project.
+
+The signup form for this project, to be added to contact list for updates or invitations to project activities/events, is: https://goo.gl/forms/ZnkPmb0an8gOBf1D3  and the signup form can be embedded into any html page with the following iframe code snippet:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZLPPL82BFhJFKnlcnNGzQRGl-P5GUSH-vJHXC0FxVr6EtOw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 # Project Milestones
