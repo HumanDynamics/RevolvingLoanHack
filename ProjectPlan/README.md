@@ -32,7 +32,7 @@ We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Bor
 * Conduct Initial PoC Test - MIT - December 7, 2016
 * Final Presentation / Conduct Test - December 14, 2016 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FinalPresentation.md
 * Midproject Review and Feedback - Hangout - January, 2017
-* Review of Prototype Test Plan - Hangout - Dec, 2016
+* Review of Prototype Test Plan - Hangout - January, 2017
 * Field Testing - Dominican Republic - Jan, 2017
 * Final Project Presentation - MIT/Hangout - March 2017
 
