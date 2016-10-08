@@ -1,7 +1,7 @@
-Clinton Foundation
-Womens World Banking
-IDB
-Kauffman Foundation
+* Clinton Foundation
+* Womens World Banking
+* IDB
+* Kauffman Foundation
 
 
 
