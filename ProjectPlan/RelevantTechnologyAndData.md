@@ -2,7 +2,7 @@
 
 Just do it!
 
-## Evaulation of Data Robot
+## Evaluation of Data Robot
 
 This is definitely something we want to try using if it is within our reach technically and does not cost anything or cost too much to use for this purpose. 
 
