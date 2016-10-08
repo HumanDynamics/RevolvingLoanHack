@@ -24,9 +24,8 @@ We will know our hypothesis is valid when we are able to originate loans and  a 
 # Use Case N:
 
 # Project Partners and Roles
-This is a link to a private Wiki. Project leads are eligible for being listed on the public site in the people directory
+We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles) for the current email list of project contributors. Project leads are eligible to have a [public profile page](https://github.com/HumanDynamics/law.MIT.edu/tree/gh-pages/people) as a token of attribution and recognition of their contributions to this open source project.
 
-https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles
 
 # Project Milestones
 * Conduct Initial PoC Test - MIT - Nov, 2016
