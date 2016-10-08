@@ -15,7 +15,6 @@ The purpose of this project is to rapidly prototype an "Automated Revolving Loan
 # Link to Use Cases 
 Key Use Case 01: MIT 2016 
 
-
 # Hypothesis
 
 We believe that we can build an an initial rapid prototype and proof of concept test for the "Automated Loan Fund" to be completed and tested at MIT at the end of 2016 with a small number of participants/users. 
@@ -25,6 +24,8 @@ We will know our hypothesis is valid when we are able to originate loans and  a 
 # Use Case N:
 
 # Project Partners and Roles
+This is a link to a private Wiki 
+https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles
 
 # Project Milestones
 * Conduct Initial PoC Test - MIT - Nov, 2016
