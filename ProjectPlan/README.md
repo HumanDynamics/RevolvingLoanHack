@@ -1,16 +1,16 @@
 ## Project Plan
 
-# Automated Revolving Loan Fund Prototype
+# "Blockchain Border Bank Loan Fund"
 
-This mini-research umbrella is composed of three distinct projects that are proving out the idea of an automated loan fund as an example service an automated business entity can provide.
+This project has two phases that will happen at MIT and in the Dominican Republic
 
 # Project Plan Format
 
-Projects operating under this umbrella generally use the following formats for project plans:
+This format will be similar to the Automated Legal Entity format 
 
 # Overview: Purpose and Intended Outcomes
 
-The purpose of this project is to rapidly prototype an "Automated Revolving Loan Fund" and do a small-test at MIT at the end of 2016 and a field test in the DR early 2017. The final product will be tested with 2 out of 5 groups living on the border.
+The purpose of this project is to rapidly prototype an "Automated Loan Fund" and dp a small-test at MIT at the end of 2016 and a field test in the DR early 2017. The final product will be tested with 2 out of 5 groups living on the border.
 
 # Link to Use Cases 
 Key Use Case 01: MIT 2016 
