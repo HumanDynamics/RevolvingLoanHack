@@ -24,7 +24,8 @@ We will know our hypothesis is valid when we are able to originate loans and  a 
 # Use Case N:
 
 # Project Partners and Roles
-This is a link to a private Wiki 
+This is a link to a private Wiki. Project leads are eligible for being listed on the public site in the people directory
+
 https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles
 
 # Project Milestones
