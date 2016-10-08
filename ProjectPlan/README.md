@@ -52,8 +52,11 @@ Final Project Presentation and Discussion
 
 This section would include the candidate funding organizations or people and the text of draft letters of intent
 
-# Budget and Accounting
-Note: Add link
+# Budget (Internal to the project)
+
+https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Budget.md
+
+# Accounting (As part of the project)
 
 # Staffing and Volunteers 
 Name and contact + roles
