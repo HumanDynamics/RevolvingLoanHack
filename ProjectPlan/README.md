@@ -53,7 +53,7 @@ Project progress shown and any issues addressed. Should show clear path to final
 Conduct and Complete the Prototype Test. This phase like the PoC also follows a mini-project plan with start, middle and end.
 
 # Final Project Presentation and Discussion
-Final project deliverable presentation 
+Final project deliverable and presentation 
 
 # Funding Sources
 Link to candidate funding organizations/letter of intent 
