@@ -12,9 +12,7 @@
 # More Detail
 
 ## Launch of the Proposed Project
-* September 15th 
-
-* Launch the Project - Sept 15th: Develop draft [Project Plan](https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md)
+* Project Launch- Sept 15th: Develop draft [Project Plan](https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md)
 
 ## Kick-Off Meeting/Event to Commence the Formal Phase of the Project: October 17
 * This is a meeting at which the key project principals discuss and agree to (or amend and then agree to) the Project Plan and calendar in key dates they will be involved with for the project. 
