@@ -1,3 +1,3 @@
 # List of Potential Funders
 
-We will leave this open for now.
+Once we have the Oct 18 Event at Media Lab we will have a better idea of potential funders.
