@@ -25,6 +25,8 @@ Conduct and Complete the Prototype Test. This phase like the PoC also follows a 
 
 ## Date Range (Nov?) Demo the Scaffold or Initial Working PoC for Review/Comment
 
+* This is a dress rehersal and full walk through of what we expect to do.  This can be with the project team playing the roles of others or with the others themselves.  Idea is to ensure all the components are set up or can be set up and will work and that the data and actions expected are realistic and have been through through and will work and will creates the results expected to prove or disprove the hypothesis.
+
 ## (Nov?) Midproject Review and Feedback
 Project progress shown and any issues addressed. Should show clear path to final deliverable and be able to provide sufficient basis to raise any major questions or issues before completing work on Final Project Deliverable. 
 
