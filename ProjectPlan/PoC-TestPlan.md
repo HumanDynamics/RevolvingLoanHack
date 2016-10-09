@@ -1,9 +1,6 @@
-Our POC is designed to demonstrate feasibility of an Automated Loan Fund. This doc serves to confront any technical and logistical issues to mitigate risk by providing decision choices early on in the development cycle
+Our PoC is designed to demonstrate the feasibility of an Automated Loan Fund. The purpose of this doc is to confront any technical and logistical issues to mitigate risk - providing decision choices for supervisors, industry professionals to answer early on in the development cycle.
 
-The goals are to rapidly prototype an "Automated Loan Fund" and do a small-test at MIT at the end of 2016 and a 4-8 week field test (full lifecycle) model in the DR early 2017. The final product will be tested with 2 out of 5 groups living on the border.
-
-
-
+Test goals are to rapidly prototype an "Automated Loan Fund" with a small-test at MIT at the end of 2016 following a 4-8 week field test (full lifecycle) model in the DR early 2017. The final product will be tested with 2 out of 5 groups living on the border. See project README file for relevant dates and milestones. https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
 
 
 
