@@ -13,7 +13,7 @@ Proof of concept is a term with various interpretations in different areas. POC 
 In the business world, POC is how startups demonstrate that a product is financially viable. POC involves extensive research and review and is submitted as a single package to concerned parties. It includes examination of the revenue model, in which companies show projected revenue from products and services, and indicate development cost, long-term finance projections and how much the service costs to maintain and market. It is an excellent way for a business to evaluate itself internally and at proposed acquisitions and projects
 
 
-# Other sources:
+# More sources:
 http://it.toolbox.com/blogs/enterprise-solutions/technology-proof-of-concept-sample-37326
 http://www.softwaretestinghelp.com/implement-proof-of-concept-poc-in-automation-testing/
 https://www.scribd.com/doc/169695778/VDI-Proof-of-Concept-POC-Test-Plan
