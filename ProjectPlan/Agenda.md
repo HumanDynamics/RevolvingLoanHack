@@ -8,10 +8,8 @@
 
 ## Links to legal, business, technical components of projct for people to work on
 
-## Agenda
+## Groups
 
-**Group Formation**
+## Hack
 
-**Hack**
-
-**Wrap Up/Present**
+## Wrap Up/Present
