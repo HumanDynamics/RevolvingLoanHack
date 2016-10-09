@@ -6,12 +6,12 @@
 
 **Place**
 
-## Guest Presenters
+## Links to legal, business, technical components of projct for people to work on
 
 ## Agenda
 
-**Welcome** 
+**Group Formation**
 
-**Discussion/Hack**
+**Hack**
 
-**Wrap Up**
+**Wrap Up/Present**
