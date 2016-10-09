@@ -73,5 +73,5 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/READM
 
 # Success Criteria
 
-See README.md
+https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
 
