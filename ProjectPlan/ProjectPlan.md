@@ -68,7 +68,8 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Budge
 # Staffing and Volunteers 
 Name and contact + roles
 
-# Milestones and Schedule
+# Milestones and Tentative Dates
+https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
 
 # Success Criteria
 
