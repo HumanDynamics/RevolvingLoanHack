@@ -1,13 +1,13 @@
 # Revolving Loan Fund
 
-* Date:
-* Time: 
-* Place:
+** Date:
+** Time: 
+** Place:
 
-## Guest Presenters:
+## Guest Presenters
 
-## Agenda:
+## Agenda
 
-* Welcome 
-* Discussion/Hack
-* Wrap Up
+** Welcome 
+** Discussion/Hack
+** Wrap Up
