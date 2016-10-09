@@ -54,7 +54,6 @@ We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Bor
 The signup form for this project, to be added to contact list for updates or invitations to project activities/events, is: https://goo.gl/forms/ZnkPmb0an8gOBf1D3  and the signup form can be embedded into any html page with the following iframe code snippet: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/SignupForm-EmbedCode.txt
 
 
-
 # Funding Sources
 Link to candidate funding organizations/letter of intent 
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FundingSources.md
@@ -65,8 +64,9 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Budge
 
 # Accounting (As part of the project)
 
-# Staffing and Volunteers 
-Name and contact + roles
+# Staffing/Volunteers/Attendees 
+
+https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MeetingAttendeeList.md
 
 # Milestones and Tentative Dates
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
