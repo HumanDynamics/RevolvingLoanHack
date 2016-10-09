@@ -1,5 +1,6 @@
 
 # Project Milestones
+* Launch the Project - Sept 15th: Develop draft [Project Plan](https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md)
 * "Kick Off" - MIT - Oct 17, 2016
 * Conduct Initial PoC Test - MIT - December 7, 2016
 * Final Presentation / Conduct Test - December 14, 2016 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FinalPresentation.md
@@ -13,8 +14,11 @@
 ## Launch of the Proposed Project
 * September 15th 
 
+* Launch the Project - Sept 15th: Develop draft [Project Plan](https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md)
+
 ## Kick-Off Meeting/Event to Commence the Formal Phase of the Project: October 17
 * Agree to Project Plan (1 page Poc) and Agenda
+
 
 ## Conduct Initial PoC Test
 
