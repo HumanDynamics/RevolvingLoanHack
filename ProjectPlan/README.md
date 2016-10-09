@@ -16,8 +16,9 @@
 (Not yet linked)
 * Project Launch- Sept 15th
 
-## Kick-Off Mee
-ting/Event to Commence the Formal Phase of the Project: October 17
+## Kick-Off Meeting
+
+THis meeting/Event to Commence the Formal Phase of the Project: October 17
 * This is a meeting at which the key project principals discuss and agree to (or amend and then agree to) the Project Plan and calendar in key dates they will be involved with for the project. 
 * FILE: Meeting Agenda (to be linked soon)
 * FILE: Meeting Attendees (to be linked soon)
