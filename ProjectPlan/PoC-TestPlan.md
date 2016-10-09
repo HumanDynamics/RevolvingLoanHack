@@ -1,6 +1,6 @@
 Our POC is designed to demonstrate feasibility of an Automated Loan Fund. This doc serves to confront any technical and logistical issues to mitigate risk by providing decision choices early on in the development cycle.
 
-See activities, deliverables, and considerations in Project Plan: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md 
+See activities, deliverables, etc. in Project Plan: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md 
 
 Dates and milestones: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
 
