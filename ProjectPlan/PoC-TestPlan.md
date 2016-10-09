@@ -1,16 +1,18 @@
 # Automated Loan Fund PoC Test Plan
 
-## Context
-
 * Summary: The Automated Loan Fund Proof of Concept (PoC) is designed to demonstrate the value of an Automated Revolving Loan Fund and the feasibility of building a working prototype for subsequent field testing in early 2017. The purpose of this file is to identify, confirm and document the steps involved in conducting this PoC.
 
 * Purpose: The PoC goals are to rapidly build a smallest/simplest testable "Automated Loan Fund" for the purpose of establishing a sound foundation for further building and testing. To achieve this objective, the PoC will be evaluated against key Hypothesis Statements that, if true, sufficiently demonstrate the supposed value of this project.  By design, if the PoC test proves the Hypothesis Statements, the PoC will therefore demonstrated one or more key asserted capabilities, confirmed key asserted assumptions or other facts that must be true in order to prove the value of an Automated Loan Fund.  
 
 * Objectives: Accordingly, this test plan is intended to provide a provable basis for objective evaluation of the success or failure of the PoC test, such as an event that can be objectively observed by two or more evaluators and/or verifiable data that proves or disproves the hypothesis statements.  This PoC requires that the Hypothesis Statements and the test regime are constructived both constructured to "fit" each other.  That is, the PoC test must be designed and conducted in a way that proves or disproves the Hypothesis Statements and conversely, the Hypothesis Statements must be formulated in a way that can be proven or disproven by the results of the PoC test. 
 
-## What We Will Test:
+# Hypothesis:
 
-The concept is to connect a few key existing automated processes together in a way that models the entire working lifecycle of a loan fund system.  We plan to set up:
+If we test the below, then everybody will high five us.  Like, all day.  We anticipate needing thick gloves.
+
+# We Will Build:
+
+The concept is to build a working (not pretty!) connected flow across a few key existing apps and services that enable automated processes that all together model the entire working lifecycle of a loan fund system.  We plan to set up:
 
 * Application Transmission: A loan application webform 
 * Application Analytics: The form will feed application data into risk scoring algorithms (using DataRobot) 
@@ -25,7 +27,15 @@ Note: Idea is to use webform to ingest applications data and route it to DataRob
 
 Note: It is intended that the PoC test will be conducted at MIT near the end of 2016 and will be followed up with a 4-8 week field field-test in the DR, at MIT and possibly other locations in early 2017. 
 
-## Relevant Project Files:
+# We Will Know We Have Succeeded If...
+
+* The loan applications that "should have been approved" were in fact approved (perhaps based on backward tested data from lending tree on loans that defaulted later)
+* Each link in the workflow and approval chain operated as intended
+* We can confirm evidence of the loan contract, disbursal, paybacks and payoff of the blockchain by comparing hashes from our log files and email receipts and the hash that was entered on the blockchain.
+
+# Other Relevant Links:
+
+## Relevant Project Files
 
 More information on the planned followup field tests can be found at [add links to relevant files here]. See project README file for relevant dates and milestones. https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
 
