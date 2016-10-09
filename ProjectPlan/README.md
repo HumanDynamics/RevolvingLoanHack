@@ -32,7 +32,7 @@ Project progress shown and any issues addressed. This will feature what happened
 
 ## DATE RANGE (First Week Dec?) Conduct Initial PoC Test
 
-This phase follows a mini-project plan with start, middle and end. By achieving each step of this mini-plan, by definition, results with the successful completion of the project proof of concept.
+This phase follows a mini-project plan with start, middle and end. This mini-project plan reflects the feedback received from the mid-project review.  This is the point of a mid-project review and is intended to increase the chances of success for the project success.  By achieving each step of this mini-plan, by definition, results with the successful completion of the project proof of concept.
 
 ## (Second week of Dec?) Compete Write up of PoC Test and Deliver for review/comment
 
