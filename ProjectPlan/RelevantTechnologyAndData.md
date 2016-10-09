@@ -2,6 +2,15 @@
 
 Just do it!
 
+## Evaluate Typeform
+
+https://admin.typeform.com/form/2416373/fields/
+
+Given the API used by TypeForm and the simple/easy user interface, is this tool potentially as good or better than Google Form as a form-driven user input for project processes and also for the automataed loan fund to be tested? 
+
+Evaluation should explore whether/how this TypeForm can be used as input for Loan Application process and also for other key user actions such as creation of Valcu-driven legal entity and for loan officer to write information onto the loan record and communication to applicants or borrower?  
+
+
 ## Evaluation of Data Robot
 
 This is definitely something we want to try using if it is within our reach technically and does not cost anything or cost too much to use for this purpose. 
