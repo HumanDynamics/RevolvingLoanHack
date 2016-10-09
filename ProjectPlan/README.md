@@ -2,6 +2,7 @@
 # Project Milestones
 * Sept 15 - Oct 15: Project Launch Phase 
 * Week of October 15th, "Kick Off Meeting"
+* Midproject Review and Feedback - November, 18 2017
 * Conduct Initial PoC Test - MIT - December 7, 2016
 * Final Presentation / Conduct Test - December 14, 2016 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FinalPresentation.md
 * Midproject Review and Feedback - Hangout - January, 2017
