@@ -6,7 +6,8 @@
 
 **Place**
 
-## Links to legal, business, technical components of projct for people to work on
+## Legal, business, technical components 
+**(links to things people can hack on)**
 
 ## Groups
 
