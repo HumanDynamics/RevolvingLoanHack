@@ -2,7 +2,7 @@ Our POC is designed to demonstrate feasibility of an Automated Loan Fund. This d
 
 **PoC-TestPlan-PreFlightChecklist:** https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/PoC-TestPlan-PreFlightCheckList.md
 
-**Project plan:* https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md 
+**Project plan:** https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/ProjectPlan.md 
 
 **Team:** https://github.com/orgs/HumanDynamics/teams/revolveteam
 
