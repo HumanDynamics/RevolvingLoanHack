@@ -68,8 +68,24 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Budge
 
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MeetingAttendeeList.md
 
-# Milestones and Tentative Dates
-https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
+# Milestones / Key Activities / Tentative Dates
+
+**Sept 15 - Oct 15: Project Launch Phase:**
+
+All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
+
+**Week of October 15th, "Kick Off Meeting":** 
+
+**Agenda:** https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
+
+**Midproject Review and Feedback - November, 18 2017**
+
+**Conduct Initial PoC Test - MIT - December 7, 2016**
+
+**Final Presentation / Conduct Test - December 14, 2016**
+
+https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FinalPresentation.md
+
 
 # Success Criteria
 
