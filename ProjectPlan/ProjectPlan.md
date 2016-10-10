@@ -73,18 +73,20 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Meeti
 
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
+
+**October 10:**
+Go through processes, components and scope: https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/HypothesisHacking/AutomatedLoanFund/lifecycle_scope.md 
+
+*  BLT: Business, Legal and Technical Life-Cycle Integration
+*  Key RLF Processes 
+*  Common Procedures and Parameters 
+*  Key Steps: Phasing and Staging 
+*  Common RLF Initial & Continuing Capitalization Sources 
+
+** October 11** 
+
 **Week of October 15th, "Kick Off Meeting":** 
 Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
-
-The following processes, events and components may be in scope of the initial project to use DevOps for data-driven Revolving Loan Funds on blockchain. 
-
-Go through Scope https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/HypothesisHacking/AutomatedLoanFund/lifecycle_scope.md and Checklist:
-
-* ** BLT: Business, Legal and Technical Life-Cycle Integration**
-* ** Key RLF Processes **
-* ** Common Procedures and Parameters **
-* ** Key Steps: Phasing and Staging **
-* ** Common RLF Initial & Continuing Capitalization Sources **
 
 **Midproject Review and Feedback - November, 18 2017**
 
