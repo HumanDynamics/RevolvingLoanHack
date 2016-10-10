@@ -47,7 +47,6 @@ The purpose of this project is to rapidly prototype an "Automated Loan Fund" and
 See use cases and hypotheses here: 
 * https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/UseCases.md
 
-
 # People and Roles
 We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles) and [Google spreadsheet](https://docs.google.com/spreadsheets/d/1eEJoSFyfizewewlS_0rmYCA8ZctYpNEtqoXGkfCWGPQ/edit#gid=158698474) for the current email list of project contributors. Project leads are eligible to have a [public profile page](https://github.com/HumanDynamics/law.MIT.edu/tree/gh-pages/people) as a token of attribution and recognition of their contributions to this open source project.
 
@@ -75,8 +74,15 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Meeti
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
 **Week of October 15th, "Kick Off Meeting":** 
+Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
 
-**Agenda:** https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
+The following processes, events and components may be in scope of the initial project to use DevOps for data-driven Revolving Loan Funds on blockchain. Checklist:
+
+* ** BLT: Business, Legal and Technical Life-Cycle Integration**
+* ** Key RLF Processes **
+* ** Common Procedures and Parameters **
+* ** Key Steps: Phasing and Staging **
+* ** Common RLF Initial & Continuing Capitalization Sources **
 
 **Midproject Review and Feedback - November, 18 2017**
 
