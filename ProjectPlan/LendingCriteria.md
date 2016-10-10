@@ -8,7 +8,7 @@
 
 ## Eligibility of Members
 
-** Entrepreneurs who meet the following requirements will be eligible to belong to the community bank**
+**Entrepreneurs who meet the following requirements will be eligible to belong to the community bank**
 
 * Have more than one year living in the same community. The address must be located within the priority area of where the community bank is located.
 * Must be 18 to 60 years old
@@ -19,7 +19,7 @@
 * Be recommended b  at least two (2) other members of the 
 * Community bank must collectively accept you
 
-** Those who are not eligible to participate**
+**Those who are not eligible to participate**
 
 * Applicants with loans from other financial institutions 
 * More than one applicant for the same family 
