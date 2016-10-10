@@ -69,6 +69,8 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Meeti
 
 # Milestones / Key Activities / Tentative Dates
 
+https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MilestonesActivitiesDates.md
+
 # Success Criteria
 
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/README.md
