@@ -69,17 +69,15 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Meeti
 
 # Milestones / Key Activities / Tentative Dates
 
-**Sept 15 - Oct 15: Project Launch Phase:**
+**Sept 15 - Oct 15: Project Launch Phase:** 
 
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
-
-**October 10:**
+**October 10-14:**
 Go through processes, components and scope: https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/HypothesisHacking/AutomatedLoanFund/lifecycle_scope.md 
 
-*  BLT: Business, Legal and Technical Life-Cycle Integration
-*  Key RLF Processes 
-*  Common Procedures and Parameters 
+*  Go through Key RLF Processes (LendingCriteria.md)
+*  Common Procedures and Parameters (Purpose of program, Geographic area served, Committee composition, Loan review criteria and approval process)
 *  Key Steps: Phasing and Staging 
 *  Common RLF Initial & Continuing Capitalization Sources 
 
