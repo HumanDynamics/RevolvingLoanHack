@@ -2,7 +2,7 @@
 
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/LendingCriteria.md
 
-## Sept 15 - Oct 15: Project Launch Phase: 
+# Sept 15 - Oct 15: Project Launch Phase: 
 
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
