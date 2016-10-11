@@ -2,31 +2,33 @@
 
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/LendingCriteria.md
 
-**Sept 15 - Oct 15: Project Launch Phase:** 
+## Sept 15 - Oct 15: Project Launch Phase: 
 
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
-**October 10-14:**
- Item 1) Go through processes, components and scope for BLT: Business, Legal and Technical Life-Cycle Integration; https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
+## October 10-14:
+ 
+**Item 1)** Go through processes, components and scope for BLT: Business, Legal and Technical Life-Cycle Integration; https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
 
-Item 2) Go through Key RLF Processes LendingCriteria.md
+**Item 2)** Go through Key RLF Processes
+* Lending Criteria:https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/LendingCriteria.md
 
-Item 3) Common Procedures and Parameters (Purpose of program, Geographic area served, Committee composition, Loan review criteria and approval process) 
+**Item 3)** Common Procedures and Parameters (Purpose of program, Geographic area served, Committee composition, Loan review criteria and approval process) 
 
-Item 4)  Key Steps: Phasing and Staging 
+**Item 4)**  Key Steps: Phasing and Staging 
 
-Item 5) Common RLF Initial & Continuing Capitalization Sources 
+**Item 5)** Common RLF Initial & Continuing Capitalization Sources 
 
-** October 11** 
-
-**Week of October 15th, "Kick Off Meeting":** 
+# Week of October 15th, "Kick Off Meeting": 
 Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
+**Item 1) **
+**ITem 2) **
 
-**Midproject Review and Feedback - November, 18 2017**
+# Midproject Review and Feedback - November, 18 2017
 
-**Conduct Initial PoC Test - MIT - December 7, 2016**
+# Conduct Initial PoC Test - MIT - December 7, 2016
 
-**Final Presentation / Conduct Test - December 14, 2016**
+# Final Presentation / Conduct Test - December 14, 2016
 
 https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/FinalPresentation.md
 
