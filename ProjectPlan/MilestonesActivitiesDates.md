@@ -16,8 +16,9 @@ Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPl
 **Item 2)**
 
 # October - November 18:
- 
-**Item 1) October 11-14**  Go through processes, components and scope for BLT: Business, Legal and Technical Life-Cycle Integration; https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
+File to see processes, components and scope: https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
+
+**Item 1) October 11-14** BLT: Business, Legal and Technical Life-Cycle Integration; 
 
 **Item 2) October 15-18** Go through Key RLF Processes
 * Lending Criteria:https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/LendingCriteria.md
