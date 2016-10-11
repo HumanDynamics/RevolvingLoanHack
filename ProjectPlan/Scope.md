@@ -1,8 +1,9 @@
-**The Lifecycle of Revolving Loan Funds from Inception to Successful Dissolution**
+**The Lifecycle of Revolving Loan Funds from Inception to Successful Dissolution October - November 18th
+ **
 
 The following processes, events and components may be in scope of the initial project to use DevOps for data-driven Revolving Loan Funds on blockchain
 
-## BLT: Business, Legal and Technical Life-Cycle Integration 
+## BLT: Business, Legal and Technical Life-Cycle Integration: Item 1) October 11-14
 
 * **DOCKER**: Use docker image to containerize the entire entity, business processes and legal procedures of the loan fund
 * **VALCU.co**: Use Valcu.co to automatically create a valid legal business entity (corp or llc) with Delaware Secretary of State (once incorporation is complete, extend this for grabbing the tax ID and creating bank account to hold the fund using API with selected depository institution)
@@ -13,7 +14,7 @@ The following processes, events and components may be in scope of the initial pr
 * **Blockchain for Distributed Ledger**: Use Tierion, (blocksign, etc) to ensure proof of key transactional events (eg loan application as received; loan contract and terms as agreed; fact that a loan was successfully paid off, etc) by entering a hash of the relevant record(s) on the Bitcoin and/or Ethereum public blockchains and including reference to the address of that entry in the legal and business documents of or sent to the parties
 * **Regulatory Filings**: Use government agency API interfaces to integrate timely and accurate reports, filings and other communications with regulatory, oversight, tax, permit/license providing; employee/hr or other governmental and private organizations with oversight authority
 
-## Key RLF Processes:
+## Key RLF Processes - Item 2) October 15-18 
 
 * Establish lending criteria
 * Pre-screen all applicants
@@ -27,7 +28,7 @@ The following processes, events and components may be in scope of the initial pr
 * Monitor collateral
 * File reports to the EDC
 
-## Common Procedures and Parameters
+## Common Procedures and Parameters - Item 3) October 19-Oct 31
 
 * Purpose of program
 * Geographic area served
@@ -42,8 +43,7 @@ The following processes, events and components may be in scope of the initial pr
 * Two from the private sector lending community
 * Three representing the low-to-moderate income population
 
-## Key Steps: Phasing and Staging
-
+## Key Steps: Phasing and Staging - Item 4) Nov 1- Nov 9
 
 * Research existing RLF’s and compile samples of application forms, program guidelines, and other materials.
 * Invite lenders and potential borrowers to participate in the design process.
@@ -61,7 +61,7 @@ The following processes, events and components may be in scope of the initial pr
 * Promote the RLF and capitalize with funds from grants and individual donations.
 * Provide loans and technical assistance to borrowers.
 
-## Common RLF Initial & Continuing Capitalization Sources
+## Common RLF Initial & Continuing Capitalization Sources - Item 5) Nov 10- Nov 17
 
 * SBA 7(a) Community Advantage Program, 
 * SBA Intermediary Lending Program (ILP)
@@ -72,7 +72,7 @@ The following processes, events and components may be in scope of the initial pr
 * Inter-American Development Fund
 * Etc, etc
 
-## Key Loan Documents Hashed for Blockchain
+## Key Loan Documents Hashed for Blockchain - Item 6) Nov 14-17
 
 (i) Loan application;
 
