@@ -14,7 +14,7 @@ Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPl
 ** Item 1)** Have PoC finished and ready to present to Womens World Banking, Sandy, IDB
 ** Item 2)**
 
-# Ooctober - November 18:
+# October - November 18:
  
 **Item 1)** Go through processes, components and scope for BLT: Business, Legal and Technical Life-Cycle Integration; https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
 
