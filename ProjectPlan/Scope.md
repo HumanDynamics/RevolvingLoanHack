@@ -1,5 +1,4 @@
-**The Lifecycle of Revolving Loan Funds from Inception to Successful Dissolution October - November 18th
- **
+**The Lifecycle of Revolving Loan Funds from Inception to Successful Dissolution October - November 18th**
 
 The following processes, events and components may be in scope of the initial project to use DevOps for data-driven Revolving Loan Funds on blockchain
 
