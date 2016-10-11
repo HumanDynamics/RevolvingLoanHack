@@ -2,8 +2,7 @@
 
 The following processes, events and components may be in scope of the initial project to use DevOps for data-driven Revolving Loan Funds on blockchain
 
-
-## BLT: Business, Legal and Technical Life-Cycle Integration
+## BLT: Business, Legal and Technical Life-Cycle Integration 
 
 * **DOCKER**: Use docker image to containerize the entire entity, business processes and legal procedures of the loan fund
 * **VALCU.co**: Use Valcu.co to automatically create a valid legal business entity (corp or llc) with Delaware Secretary of State (once incorporation is complete, extend this for grabbing the tax ID and creating bank account to hold the fund using API with selected depository institution)
