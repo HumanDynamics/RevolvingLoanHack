@@ -25,7 +25,9 @@ Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPl
 
 **Item 4) Nov 1- Nov 9**  Key Steps: Phasing and Staging 
 
-**Item 5) Nov 10- Nov 17** Common RLF Initial & Continuing Capitalization Sources 
+**Item 5) Nov 10- Nov 13** Common RLF Initial & Continuing Capitalization Sources 
+
+**Item 6) Nov 13-17** Key Loan Documents Hashed for Blockchain
 
 # Midproject Review and Feedback - November, 18 2017
 
