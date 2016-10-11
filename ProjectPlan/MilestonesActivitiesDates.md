@@ -7,12 +7,15 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Lendi
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
 **October 10-14:**
-Go through processes, components and scope: https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/HypothesisHacking/AutomatedLoanFund/lifecycle_scope.md 
+ Item 1) Go through processes, components and scope for BLT: Business, Legal and Technical Life-Cycle Integration; https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
 
-*  Go through Key RLF Processes (LendingCriteria.md)
-*  Common Procedures and Parameters (Purpose of program, Geographic area served, Committee composition, Loan review criteria and approval process)
-*  Key Steps: Phasing and Staging 
-*  Common RLF Initial & Continuing Capitalization Sources 
+Item 2) Go through Key RLF Processes LendingCriteria.md
+
+Item 3) Common Procedures and Parameters (Purpose of program, Geographic area served, Committee composition, Loan review criteria and approval process) 
+
+Item 4)  Key Steps: Phasing and Staging 
+
+Item 5) Common RLF Initial & Continuing Capitalization Sources 
 
 ** October 11** 
 
