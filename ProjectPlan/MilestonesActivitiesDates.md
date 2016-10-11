@@ -11,8 +11,8 @@ All files related to this project can be found: https://github.com/HumanDynamics
 
 Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
 
-**Item 1) ** Have PoC finished
-**ITem 2) **
+** Item 1)** Have PoC finished and ready to present to Womens World Banking, Sandy, IDB
+** Item 2)**
 
 # Ooctober - November 18:
  
