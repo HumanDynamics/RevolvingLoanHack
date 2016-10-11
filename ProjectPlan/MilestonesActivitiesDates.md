@@ -6,7 +6,15 @@ https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Lendi
 
 All files related to this project can be found: https://github.com/HumanDynamics/law.MIT.edu or https://github.com/HumanDynamics/RevolvingLoanHack
 
-## October 10-14:
+
+# Week of October 15th, "Kick Off Meeting":
+
+Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
+
+**Item 1) ** Have PoC finished
+**ITem 2) **
+
+# Ooctober - November 18:
  
 **Item 1)** Go through processes, components and scope for BLT: Business, Legal and Technical Life-Cycle Integration; https://github.com/HumanDynamics/RevolvingLoanHack/edit/master/ProjectPlan/Scope.md 
 
@@ -18,11 +26,6 @@ All files related to this project can be found: https://github.com/HumanDynamics
 **Item 4)**  Key Steps: Phasing and Staging 
 
 **Item 5)** Common RLF Initial & Continuing Capitalization Sources 
-
-# Week of October 15th, "Kick Off Meeting": 
-Agenda: https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/MIT_IDB_Event.md
-**Item 1) **
-**ITem 2) **
 
 # Midproject Review and Feedback - November, 18 2017
 
