@@ -2,7 +2,7 @@
 
 * Summary: The Automated Loan Fund Proof of Concept (PoC) field test is designed to get user feedback on the Automated Loan Fund
 
-* Purpose: If we are able to show value of this project on communities. By design, if the PoC test proves the Hypothesis Statements, the PoC will therefore demonstrated one or more key asserted capabilities, confirmed key asserted assumptions or other facts that must be true in order to prove the value of an Automated Loan Fund.  
+* Purpose: If the PoC test proves the Hypothesis Statements, the PoC will therefore demonstrated one or more key asserted capabilities, confirmed key asserted assumptions or other facts that must be true in order to prove the value of an Automated Loan Fund.  
 
 * Objectives: To provide a provable basis for objective evaluation of the success or failure of the Automated Loan Fund with groups living on the border.
 
