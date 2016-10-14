@@ -45,7 +45,6 @@ The purpose of this project is to rapidly prototype an "Automated Loan Fund" and
 # Use Cases and Hypthoses
 
 See use cases and hypotheses here: 
-* https://github.com/HumanDynamics/RevolvingLoanHack/blob/master/ProjectPlan/Hypothesis_DR.md
 
 # People and Roles
 We use a [private Wiki page](https://github.com/CIVICS/BorderBank-Board/wiki/Border-Bank---Partners-Volunteer-Roles) and [Google spreadsheet](https://docs.google.com/spreadsheets/d/1eEJoSFyfizewewlS_0rmYCA8ZctYpNEtqoXGkfCWGPQ/edit#gid=158698474) for the current email list of project contributors. Project leads are eligible to have a [public profile page](https://github.com/HumanDynamics/law.MIT.edu/tree/gh-pages/people) as a token of attribution and recognition of their contributions to this open source project.
