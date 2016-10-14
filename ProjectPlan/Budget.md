@@ -1,4 +1,4 @@
-# TOTAL: $665
+# TOTAL: $1,000
 
 # Dev tools $150
 **1)** Depending on dev needs:
@@ -38,3 +38,6 @@ Average $60 * 4
 **2)** $75 
 
 **3)** $75
+
+# Transportation $335
+
