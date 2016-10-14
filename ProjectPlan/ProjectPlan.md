@@ -3,7 +3,7 @@
 
 # "Automated Loan Fund Proof of Concept"
 
-This project has two phases that will happen at MIT and a second phase, if successfull that will include prototype testing in the Dominican Republic and further testing at MIT and perhaps other locations (North Dakota, etc).
+This project has two phases that will happen at MIT and a second phase, if successfull, that will include prototype testing in the Dominican Republic and further testing at MIT and perhaps other locations (North Dakota, etc).
 
 # Overview: Purpose and Intended Outcomes
 
