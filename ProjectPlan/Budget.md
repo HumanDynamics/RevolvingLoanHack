@@ -22,7 +22,7 @@ https://www.typeform.com/pricing/
 
 **3)** GitHub Private Repo $7 per month for personal accounts, $9 per user per month for organizations.
 
-# Unlockhed Andriod Phones $240
+# Unlocked Andriod Phones $240
 Average $60 * 4
 
 
