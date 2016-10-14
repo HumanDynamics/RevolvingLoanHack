@@ -29,6 +29,8 @@ File to see processes, components and scope: https://github.com/HumanDynamics/Re
 
 # Conduct Initial PoC Test - MIT - December 7, 2016
 
+# Lessons Learned December 15, 2016
+
 # Field Testing Dominican Republic/Haiti border January 2017
 
 # Mid project review February 2017
