@@ -24,7 +24,7 @@ We believe that the Automated Loan Fund will help foster and track loans for gro
 
 # We Will Know We Have Succeeded If...
 
-* The loan applications that "should have been approved" were in fact approved (perhaps based on backward tested data from lending tree on loans that defaulted later)
+* We can get 75 new approved loans based on the all of the critera built into the Loan Fund
 * Each link in the workflow and approval chain operated as intended
 * We can confirm evidence of the loan contract, disbursal, paybacks and payoff of the blockchain by comparing hashes from our log files and email receipts and the hash that was entered on the blockchain.
 
