@@ -10,6 +10,10 @@ System Needs Continuous Statements of:
 
 # Assets
 
+## Key Purposes and Function of Accounting Statements 
+
+* The following notes were created during the [October 16th 2016 kick-off business/accounting team sprint](https://github.com/HumanDynamics/RevolvingLoanHack/wiki/2016-Oct-16_Sprint_Biz_AccountingAndFinancialMgmt) for this project, with Thomas (Sloan/MBA), Caitlin and Dazza. 
+
 What the fund has, could be physical assets, goods or whatver the fund has that it can earn money with. 
 
 * NOTE: The most liquid assets are highest on the list, eg cash is top and property is much lower
