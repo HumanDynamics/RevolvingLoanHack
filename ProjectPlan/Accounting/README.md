@@ -4,6 +4,9 @@ System Needs Continuous Statements of:
 
 # Assets
 
+* NOTE: The most liquid assets are highest on the list, eg cash is top and property is much lower
+* NOTE: Include "provision for doubtful account" aka "reserve for loan losses" for loaned mondey we predict we will not have repaid.  We need reporting on: gross loans outstandng minus provision for doutful accouts creates equals "net loans outstanding" (which we will want as a continuous display for loan operator screen)
+
 # Liabilities
 
 # Equity
