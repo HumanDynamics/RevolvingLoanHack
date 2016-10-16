@@ -41,7 +41,9 @@ Time based sequence state change overview:
 
 # Liabilities
 
+
 # Equity
+
 
 # Income 
 
@@ -50,22 +52,23 @@ Time based sequence state change overview:
 # Expenses
 
 
-# Continuous Ledger Entry System for All Transactions
+# Continuous Ledger and Accounting Systems
 
+* Book chapter describing some aspects of a "revolving loan fund" 
 https://books.google.com/books?id=9Tcz9FjLGeQC&pg=PA49&lpg=PA49&dq=accounting+revolving+loan+fund&source=bl&ots=K13rXs-x6R&sig=sa4_6dnMNvZI8Ne067DdeMLsB3M&hl=en&sa=X&ved=0ahUKEwj4i6T-zN7PAhVBFT4KHasXA2I4FBDoAQg0MAU#v=onepage&q=accounting%20revolving%20loan%20fund&f=false
 
-<img width="484" alt="screen shot 2016-10-16 at 1 55 21 am" src="https://cloud.githubusercontent.com/assets/8837791/19415558/c813ee28-9341-11e6-9d2a-151ac932c085.png">
-
-See NCUA combined statement example below, also at:
+The following NCUA combined statement (both balance and income) example below, has been identified and validated as a good starting point of the main accounting statements most likely needed for the PoC and perhaps initial working prototype for field testing:
 * https://www.ncua.gov/Resources/Documents/CUDev/CDRLF200712Statement.pdf 
 
 ![screen shot 2016-10-16 at 1 41 54 am](https://cloud.githubusercontent.com/assets/2357755/19415560/e07c7c50-9341-11e6-9dc9-bcee093eddaa.png)
 
 # Open Source Loan Fund Management Systems
 
-http://opencbs.com/
+The following links are open source "complete systems" that are good examples of the key functions and flows needed for totally digital "single-system" loan funds.  After evaluation, it's possible some of this software could be directly usable for this project. 
 
-https://github.com/MicroPyramid/micro-finance
+* http://opencbs.com/
+
+* https://github.com/MicroPyramid/micro-finance
 
 
 
