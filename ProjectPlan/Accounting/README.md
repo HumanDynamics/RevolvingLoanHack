@@ -17,7 +17,21 @@ What the fund has, could be physical assets, goods or whatver the fund has that 
 
 * NOTE: Report the "spread" which is the difference between the interest rate our fund receives from the borrowers (people we provide loans to) and the interest rate applied to money we capitalized the fund with from our investors  or lenders. 
 
-* 
+* Balance is what we have and what we owe.  Once we operate, the main info recorded is "during period of operation, the money we earn and the money we spend".  
+
+## Time Series:
+
+Time based sequence state change overview:  
+
+1) Day one we have $200k and that is all "cash" 
+2) Next we provide a $100k loan at a rate of 10% per year.  
+* Cash reduces to $100k and "loans outstanding" increases $100k.  
+3) Next, we get three payback installment, fist $10, second 10k and last 110k for a total of 130k.  
+* Because assets equals liability + equity, Upon first replayment we book 10k as "cash" and 10k as equity (note on NCUA sheet one of the entries for equity is "retained earnings")
+* We do the same thing for second replayment.  
+4) Payoff of full amount:
+* Upon the third replayment of the remainder of the loan, we get the principal back and therefore on the balance sheet we reduce the "loans outstanding" by $100k and increase "cash" by 100k
+* Also, because on the balance sheet we increasing cash by $10k and increasing equity by 10k therefore on the income statement we also increase income by 10k (on NCUA sheet this is reflected on line for "income on loans")
 
 # Liabilities
 
