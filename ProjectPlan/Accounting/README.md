@@ -17,6 +17,8 @@ What the fund has, could be physical assets, goods or whatver the fund has that 
 
 # Income 
 
+* Income Statement: to know at any given time, the assets and liabilities of the fund 
+
 # Expenses
 
 
