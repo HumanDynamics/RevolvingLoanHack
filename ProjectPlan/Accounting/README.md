@@ -5,8 +5,7 @@ System Needs Continuous Statements of:
 * First, balance sheet: assets and liabilities. 
 * The main equation in a balance sheet is that "assets" equals "liabilities + equity" the "equity" 
 * Note: We note "loans" as liabilities and "investment" as "assets".  
-
-If we received $10000 from investor and we $500 in loans outstanding, then the remaining has to be cash and that is listed as an "asset".  
+* Note: If we received $10000 from investor and we $500 in loans outstanding, then the remaining has to be cash and that is listed as an "asset".  
 
 # Assets
 
