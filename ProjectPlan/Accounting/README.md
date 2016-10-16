@@ -6,6 +6,7 @@ System Needs Continuous Statements of:
 * The main equation in a balance sheet is that "assets" equals "liabilities + equity" the "equity" 
 * Note: We note "loans" as liabilities and "investment" as "assets".  
 * Note: If we received $10000 from investor and we $500 in loans outstanding, then the remaining has to be cash and that is listed as an "asset".  
+* Note: If the funder provides the money as a loan, it is a liability of the fund.  If provided as a gift, it is booked as "equity".  If it is provided in return for a percent of profits, then it is also booked as "equity".  
 
 # Assets
 
