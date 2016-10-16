@@ -57,8 +57,26 @@ Time based sequence state change overview:
 
 * Income Statement: to know at any given time, the assets and liabilities of the fund 
 
+## Continuous Ledger, Accounting and Audit Systems
 
-## Continuous Ledger and Accounting Systems
+
+* Need: Audit Capability
+
+Audit requires information on changes in Fund Balances over time and focus on transactional entries to ledger (aka journal).
+
+For example: 
+
+Attachment A—Audit Guide Statements
+
+ Exhibit 1 Balance Sheet  
+ Exhibit 2 Statement of Changes in Fund Balances    
+ Exhibit 3 Statement of Current Funds Revenues, Expenditures and Other Changes
+
+Attachment B—GASB 34/35 Statements
+
+ Exhibit 1 Statement of Net Assets  
+ Exhibit 2 Statement of Revenue, Expenses and Changes in Net Assets  
+ Exhibit 3 Statement of Cash Flows
 
 * Book chapter describing some aspects of a "revolving loan fund" 
 https://books.google.com/books?id=9Tcz9FjLGeQC&pg=PA49&lpg=PA49&dq=accounting+revolving+loan+fund&source=bl&ots=K13rXs-x6R&sig=sa4_6dnMNvZI8Ne067DdeMLsB3M&hl=en&sa=X&ved=0ahUKEwj4i6T-zN7PAhVBFT4KHasXA2I4FBDoAQg0MAU#v=onepage&q=accounting%20revolving%20loan%20fund&f=false
