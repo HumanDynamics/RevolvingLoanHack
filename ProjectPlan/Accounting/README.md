@@ -29,13 +29,3 @@ https://books.google.com/books?id=9Tcz9FjLGeQC&pg=PA49&lpg=PA49&dq=accounting+re
 http://opencbs.com/
 
 https://github.com/MicroPyramid/micro-finance
-
-How did we get to this goodness?  Note the evolution of a Modern Identity and Data Banker:
-
-Search for:
-* kiva salesforce, then
-* loan fund , then
-* open source loan fund management system 
-
-(noted by dazza, who has acquired my terminal!)
-
