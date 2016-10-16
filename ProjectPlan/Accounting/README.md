@@ -12,15 +12,8 @@ System Needs Continuous Statements of:
 
 # Expenses
 
-** See NCUA combined statement example below, also at:
-* https://www.ncua.gov/Resources/Documents/CUDev/CDRLF200712Statement.pdf 
-
-![screen shot 2016-10-16 at 1 41 54 am](https://cloud.githubusercontent.com/assets/2357755/19415560/e07c7c50-9341-11e6-9dc9-bcee093eddaa.png)
-
-**Also Need**
 
 # Continuous Ledger Entry System for All Transactions
-
 
 https://books.google.com/books?id=9Tcz9FjLGeQC&pg=PA49&lpg=PA49&dq=accounting+revolving+loan+fund&source=bl&ots=K13rXs-x6R&sig=sa4_6dnMNvZI8Ne067DdeMLsB3M&hl=en&sa=X&ved=0ahUKEwj4i6T-zN7PAhVBFT4KHasXA2I4FBDoAQg0MAU#v=onepage&q=accounting%20revolving%20loan%20fund&f=false
 
@@ -32,3 +25,9 @@ https://books.google.com/books?id=9Tcz9FjLGeQC&pg=PA49&lpg=PA49&dq=accounting+re
 http://opencbs.com/
 
 https://github.com/MicroPyramid/micro-finance
+
+
+** See NCUA combined statement example below, also at:
+* https://www.ncua.gov/Resources/Documents/CUDev/CDRLF200712Statement.pdf 
+
+![screen shot 2016-10-16 at 1 41 54 am](https://cloud.githubusercontent.com/assets/2357755/19415560/e07c7c50-9341-11e6-9dc9-bcee093eddaa.png)
