@@ -9,6 +9,8 @@ What the fund has, could be physical assets, goods or whatver the fund has that 
 * NOTE: The most liquid assets are highest on the list, eg cash is top and property is much lower
 * NOTE: Include "provision for doubtful account" aka "reserve for loan losses" for loaned mondey we predict we will not have repaid.  We need reporting on: gross loans outstandng minus provision for doutful accouts creates equals "net loans outstanding" (which we will want as a continuous display for loan operator screen)
 
+* NOTE: Report the "spread" which is the difference between the interest rate our fund receives from the borrowers (people we provide loans to) and the interest rate applied to money we capitalized the fund with from our investors  or lenders. 
+
 # Liabilities
 
 # Equity
