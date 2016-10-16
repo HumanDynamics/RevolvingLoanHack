@@ -2,6 +2,12 @@
 
 System Needs Continuous Statements of: 
 
+* First, balance sheet: assets and liabilities. 
+* The main equation in a balance sheet is that "assets" equals "liabilities + equity" the "equity" 
+* Note: We note "loans" as liabilities and "investment" as "assets".  
+
+If we received $10000 from investor and we $500 in loans outstanding, then the remaining has to be cash and that is listed as an "asset".  
+
 # Assets
 
 What the fund has, could be physical assets, goods or whatver the fund has that it can earn money with. 
@@ -10,6 +16,8 @@ What the fund has, could be physical assets, goods or whatver the fund has that 
 * NOTE: Include "provision for doubtful account" aka "reserve for loan losses" for loaned mondey we predict we will not have repaid.  We need reporting on: gross loans outstandng minus provision for doutful accouts creates equals "net loans outstanding" (which we will want as a continuous display for loan operator screen)
 
 * NOTE: Report the "spread" which is the difference between the interest rate our fund receives from the borrowers (people we provide loans to) and the interest rate applied to money we capitalized the fund with from our investors  or lenders. 
+
+* 
 
 # Liabilities
 
