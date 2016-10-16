@@ -19,7 +19,7 @@ What the fund has, could be physical assets, goods or whatver the fund has that 
 
 * Balance is what we have and what we owe.  Once we operate, the main info recorded is "during period of operation, the money we earn and the money we spend".  
 
-## Time Series:
+## Time Sequence Walk Through:
 
 Time based sequence state change overview:  
 
@@ -32,6 +32,12 @@ Time based sequence state change overview:
 4) Payoff of full amount:
 * Upon the third replayment of the remainder of the loan, we get the principal back and therefore on the balance sheet we reduce the "loans outstanding" by $100k and increase "cash" by 100k
 * Also, because on the balance sheet we increasing cash by $10k and increasing equity by 10k therefore on the income statement we also increase income by 10k (on NCUA sheet this is reflected on line for "income on loans")
+
+
+## Accounting Status of Data Assets: Personal Data and Big Data
+
+* GAAP requires a basis of the "historical value" which exists when asset is purchased and does not really exist for the data type that is continuously created.  The market value is not basis under GAAP.  Under IFRS by contrast, the appraisal is available by an independent appraiser to determine the fair value of the asset.  This can be a reasonable basis for evaluating value of data assets because they don't have historic value.
+* To explore how this works, try examining and modeling companies that use both GAAP and IFRS (eg that report to SEC, etc) to see how they report income etc differently and exactly how they account for things like digital assets if possible. 
 
 # Liabilities
 
