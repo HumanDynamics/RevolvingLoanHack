@@ -64,25 +64,13 @@ Time based sequence state change overview:
 
 Audit requires information on changes in Fund Balances over time and focus on transactional entries to ledger (aka journal).
 
-For example: 
 
-Attachment A—Audit Guide Statements
+# Good Examples and Resources:
 
- Exhibit 1 Balance Sheet  
- Exhibit 2 Statement of Changes in Fund Balances    
- Exhibit 3 Statement of Current Funds Revenues, Expenditures and Other Changes
+## NCUA 
 
-Attachment B—GASB 34/35 Statements
-
- Exhibit 1 Statement of Net Assets  
- Exhibit 2 Statement of Revenue, Expenses and Changes in Net Assets  
- Exhibit 3 Statement of Cash Flows
-
-* Book chapter describing some aspects of a "revolving loan fund" 
-https://books.google.com/books?id=9Tcz9FjLGeQC&pg=PA49&lpg=PA49&dq=accounting+revolving+loan+fund&source=bl&ots=K13rXs-x6R&sig=sa4_6dnMNvZI8Ne067DdeMLsB3M&hl=en&sa=X&ved=0ahUKEwj4i6T-zN7PAhVBFT4KHasXA2I4FBDoAQg0MAU#v=onepage&q=accounting%20revolving%20loan%20fund&f=false
-
-The following NCUA combined statement (both balance and income) example below, has been identified and validated as a good starting point of the main accounting statements most likely needed for the PoC and perhaps initial working prototype for field testing:
-* https://www.ncua.gov/Resources/Documents/CUDev/CDRLF200712Statement.pdf 
+* NCUA Accounting Manual: https://www.ncua.gov/regulation-supervision/Pages/manuals-guides/accounting.aspx
+* NCUA Example - The following NCUA combined statement (both balance and income) example below, has been identified and validated as a good starting point of the main accounting statements most likely needed for the PoC and perhaps initial working prototype for field testing: https://www.ncua.gov/Resources/Documents/CUDev/CDRLF200712Statement.pdf 
 
 ![screen shot 2016-10-16 at 1 41 54 am](https://cloud.githubusercontent.com/assets/2357755/19415560/e07c7c50-9341-11e6-9dc9-bcee093eddaa.png)
 
@@ -95,4 +83,6 @@ The following links are open source "complete systems" that are good examples of
 * https://github.com/MicroPyramid/micro-finance
 
 
+## More Background Examples and Samples
 
+* See: https://github.com/HumanDynamics/RevolvingLoanHack/tree/master/ProjectPlan/Accounting/BackgroundMaterials
