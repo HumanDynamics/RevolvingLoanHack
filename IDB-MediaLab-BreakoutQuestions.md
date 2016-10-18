@@ -3,8 +3,8 @@
 * Oct 18, 2016 Breakout Session
 * Blockchain Border Bank
 
-How may we use blockchain to create identities for individuals and groups?
-How might digitally manage each loan as a "project" (hence use project management tools and data driven processes)
+* How may we use blockchain to create identities for individuals and groups?
+* How might digitally manage each loan as a "project" (hence use project management tools and data driven processes)
 
 1 Origination of loans (scientific method) - hypotheses driven prototyping (how to make this less) 
 - How might we reduce managerial and operational cost in origination?
