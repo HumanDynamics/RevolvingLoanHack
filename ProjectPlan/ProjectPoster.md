@@ -1,28 +1,46 @@
 # Economic Independence on the Haiti/DR Border
 
-## Research Objective
-To find and test the appropriate tools and technology to capture personal / financial data; to enable communities to use data as an economic asset for securing better financial products and services. 
+## Abatract
 
+Applying data, analytics and blockchain solutions for social inclusion for refugees to have access to better financial services and combat economic instability on the Haiti/DR border.
+
+Building open source products that best fit the needs of Community Banks and Savings Circles. We believe that easy, free access to usable digital (self sovereign) identity will enable access to financial services for the 2.5 billion individuals who are currently excluded.
+
+## Research Objective
+
+To enable individuals and communities to collect and control their own data as an asset class securing better economic future
 
 ## Sovereign Identity
-We want to provide reliable identity for individuals as the first step to economic independence.
 
-Working with encryption technology and trust networks we will ensure that communities own and control their own personal data (credit and transaction history). 
-Abstract
 
-We are prototyping a data, analytics and blockchain for refugee savings groups to improve financial services, promote greater financial inclusion and combat economic instability on the Haiti/DR border.
+Providing reliable identity for individuals as the first step to economic independence
 
-Our hope is to build an open source product that best fits the needs of Community Banks and Savings Circles. We believe that helping individuals create digital (self sovereign) identity, we will begin to have a better idea of how to better serve and  include the 2.5 billion individuals who do not have access to financial services. 
+Achieving the UN's goal of providing legal identity to all by 2030 (Target 16.9 of UN SDG)
+
+Leveraging blockchain’s capability to provide secure identity at large scale
 
 ## Research Focus 
-* Identity as a service on the blockchain; Blockstack, uPort, Microsoft
-* Automated Loan Fund - Streamlined lending to entrepreneurs and startups to develop businesses
-* Social physics (behavioral pattern) indicators for determining creditworthiness
+
+- New Deal on Data: Tools and technology enabling individuals to collect and use their own personal and financial data
+- Identity as a Service: Blockchain enabled "self-sovereign" identity for individuals
+- Automated Loan Fund: Simplified, streamlined lending to entrepreneurs to develop businesses
+- Social Physics: Behavioral and other alternative indicators determining creditworthiness
 
 
 ## Business Development
-*  Education: Technical training, Financial 
-literacy, Marketing, 
-* Financial Services:  Low interest 
-microloans, product lending, savings (Automated Loan Fund)
 
+
+- Education: Technical training, financial 
+literacy, marketing,   
+
+- Financial Services:  Low interest 
+microloans, product lending, savings
+
+Left: Banquapp.com Creating an Economic Identity  
+Right: Opencbs.com - opensource microfinance management software
+
+## URL
+
+      law.MIT.edu/BlockchainBorderBank
+      
+* What is needed: Creative Commons License
