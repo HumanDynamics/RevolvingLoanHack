@@ -2,9 +2,9 @@
 
 ## Abatract
 
-Applying data, analytics and blockchain solutions for social inclusion for refugees to have access to better financial services and combat economic instability on the Haiti/DR border.
+Applying data, analytics and blockchain as a solution to the world refugee crisis; to provide better financial services and combat economic instability on the Haiti/DR border.
 
-Building open source products that best fit the needs of Community Banks and Savings Circles. We believe that easy, free access to usable digital (self sovereign) identity will enable access to financial services for the 2.5 billion individuals who are currently excluded.
+Building open source products that best fit the needs of Community Banks and Savings Circles. We believe that easy, free access to usable digital (self sovereign) identity will enable refugees and stateless persons to become participating actors in a global economy. 
 
 ## Research Objective
 
@@ -30,11 +30,9 @@ Leveraging blockchain’s capability to provide secure identity at large scale
 ## Business Development
 
 
-- Education: Technical training, financial 
-literacy, marketing,   
+- Education: Technical training, financial literacy, marketing   
 
-- Financial Services:  Low interest 
-microloans, product lending, savings
+- Financial Services:  Low interest microloans, product lending, savings
 
 Left: Banquapp.com Creating an Economic Identity  
 Right: Opencbs.com - opensource microfinance management software
