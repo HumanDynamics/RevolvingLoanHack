@@ -5,71 +5,21 @@ https://www.youtube.com/watch?v=v3FJLMrC9dQ
 http://www.lehighvalleylive.com/bethlehem/index.ssf/2013/10/bethlehem_native_helps_hatian.html
 http://wdiy.org/post/social-work-dominican-republic-discourse#stream/0
 
-# Projects
+# Current
 law.MIT.edu / Human Dynamics Project: http://law.mit.edu/blockchainborderbank
 
+# December 2015
 
-# January-March, 2013
+**Team member, PingBlip**
 
-**Intern, El Centro Bono**
+PingBlip is an e-banking platform to generate commercial revenue for small and medium-sized businesses in the Dominican Republic. PingBlip was a finalist in the social entrepreneurship “The Venture - Chivas” competition to create a network of banking partnerships and distribution centers. This was to allow remote and low-income communities to promote their businesses in major commercial centers, and to provide a cost effective means of transferring goods and money.
 
-Organized weekly financial literacy workshops and English classes for Haitian migrants. Diagnostics of the organizational structure for 10 groups of Haitian migrants.  Investigation and compilation of the current conditions of binational and local markets of Jimaní and Malpaso.
+# November 16, 2014
 
-# February, 2013
+**TedX Speaker**
 
-**Co-Founder, COTEDEMI**
-
-COTEDEMI is a small business cooperative at the border of the Dominican Republic/Haiti for the unbanked. 90% of members are Haitian migrants displaced by the 2010 earthquake, and the other 10% are  Dominicans that cannot access bank loans. Members receive: technical training, financial literacy training, marketing, are part of savings circles.
-
-# July-December, 2013
-
-**Consultant ADOPEM Bank**
-
-* Worked on the development of Banca Comunal - Community Banking product.
-* Facilitated in having COTEDEMI become the first pilot group of undocumented individuals living on the border to receive loans through Banca Comunal, a product that gives traditionally marginalized groups such as displaced populations, refugees, undocumented persons living under the poverty line access to financial services.
- 
-# November, 2013
-
-**Co-Founder** 
-
-Hacking the Border https://angel.co/hacking-the-border
-
-Hacking the Border, a joint initiative to work with Dominicans and Haitians to transform the border region through community engagement workshops, dialogue, encounters, cultural, social and sports activities. With the use of innovations and technology we wish to use social media, crowdsourcing, crowdfunding, idea generation and validation platforms to generate value and solutions to local problems.
-
-- Public Facebook Group: https://www.facebook.com/groups/hackingtheborder/
-
-# November 25, 2013
-
-**Organizer**
-
-Transforming the Border: Innovation for Social Resilience in Jimaní with Stanford Unversity 
-Location: Episcopal Church, Jimaní 
-
-The main goal of the workshop was to collaborative build a strategy for sustainable development, based on rural and urban scale innovation to empower local people to come up with local solutions to local problems.
-The workshop included a Lunch for members of the ICT Dominican and Haitian Chambers
-Photos: https://www.facebook.com/campsphotos/photos/?tab=album&album_id=545740838846337
-
-# November 26, 2013
-
-**Organized Stefane Bruno's trip from Haiti to DR** 
-
-Stefane, the (then) Haiti Country Director, Boom Financial) travled from Haiti to the Dominican Republic for a Mobile Money event hosted at Coworking Space, Santo Domingo. 
-
-# Feb 21, 2014
-
-**Key CIV team member** 
-
-Civil Innovaiton Lab Engineered a collaboration agreement (see below) between the Information Technology chambers of both the Dominican Republic and Haiti. She was present at the signing between CámaraTIC RD's Presidnet Rosario Sang, and Secretary of the Board Jaime Angeles and Preident of AHTIC Haiti Patrick Attie and Claude Apaid member of the board.
-
-Other important figures who were there:
-* Reynold Guerrier, former AHTIC president 
-* Genevieve, Laywer Haiti
-
-# March-April, 2014
-
-**Civil Society Representative**
-
-2nd action plan consultation ofthe Dominican Republic's Open Government Directorate General of Government Ethics and Integrity (DIGEIG)
+Shared experiences of working with Haitian refugee commnities in the Dominican Republic with a group of Haitian youth in Jacmel, Haiti. This was the first Haitian organized TedX conference (organized by Richardson Ciguene, ESIH and translated by Emilie Reiser, MIT Media Lab) 
+Reference: https://www.ted.com/tedx/events/10999
 
 # May 2014
 
@@ -92,16 +42,65 @@ As part of the CIV Civil Dialogue program Caitlin led a project to “create hor
 * **Civil Innovation Camp**
 Including focus on Legal and Judicial Innovation Workshop, hosted by the (then) Attorney General, Francisco Domínguez Brito. Key speakers: Judge Fern Fischer
 
-#November 16, 2014
 
-**TedX Speaker**
+# March-April, 2014
 
-Shared experiences of working with Haitian refugee commnities in the Dominican Republic with a group of Haitian youth in Jacmel, Haiti. This was the first Haitian organized TedX conference (organized by Richardson Ciguene, ESIH and translated by Emilie Reiser, MIT Media Lab) 
-Reference: https://www.ted.com/tedx/events/10999
+**Civil Society Representative**
 
-# December 2015
+2nd action plan consultation ofthe Dominican Republic's Open Government Directorate General of Government Ethics and Integrity (DIGEIG)
+# Feb 21, 2014
 
-**Team member, PingBlip**
+**Key CIV team member** 
 
-PingBlip is an e-banking platform to generate commercial revenue for small and medium-sized businesses in the Dominican Republic. PingBlip was a finalist in the social entrepreneurship “The Venture - Chivas” competition to create a network of banking partnerships and distribution centers. This was to allow remote and low-income communities to promote their businesses in major commercial centers, and to provide a cost effective means of transferring goods and money.
+Civil Innovaiton Lab Engineered a collaboration agreement (see below) between the Information Technology chambers of both the Dominican Republic and Haiti. She was present at the signing between CámaraTIC RD's Presidnet Rosario Sang, and Secretary of the Board Jaime Angeles and Preident of AHTIC Haiti Patrick Attie and Claude Apaid member of the board.
+
+Other important figures who were there:
+* Reynold Guerrier, former AHTIC president 
+* Genevieve, Laywer Haiti
+
+# November 26, 2013
+
+**Organized Stefane Bruno's trip from Haiti to DR** 
+
+Stefane, the (then) Haiti Country Director, Boom Financial) travled from Haiti to the Dominican Republic for a Mobile Money event hosted at Coworking Space, Santo Domingo. 
+
+# November 25, 2013
+
+**Organizer**
+
+Transforming the Border: Innovation for Social Resilience in Jimaní with Stanford Unversity 
+Location: Episcopal Church, Jimaní 
+
+The main goal of the workshop was to collaborative build a strategy for sustainable development, based on rural and urban scale innovation to empower local people to come up with local solutions to local problems.
+The workshop included a Lunch for members of the ICT Dominican and Haitian Chambers
+Photos: https://www.facebook.com/campsphotos/photos/?tab=album&album_id=545740838846337
+
+# November, 2013
+
+**Co-Founder** 
+
+Hacking the Border https://angel.co/hacking-the-border
+
+Hacking the Border, a joint initiative to work with Dominicans and Haitians to transform the border region through community engagement workshops, dialogue, encounters, cultural, social and sports activities. With the use of innovations and technology we wish to use social media, crowdsourcing, crowdfunding, idea generation and validation platforms to generate value and solutions to local problems.
+
+- Public Facebook Group: https://www.facebook.com/groups/hackingtheborder/
+
+# July-December, 2013
+
+**Consultant ADOPEM Bank**
+
+* Worked on the development of Banca Comunal - Community Banking product.
+* Facilitated in having COTEDEMI become the first pilot group of undocumented individuals living on the border to receive loans through Banca Comunal, a product that gives traditionally marginalized groups such as displaced populations, refugees, undocumented persons living under the poverty line access to financial services.
+
+# February, 2013
+
+**Co-Founder, COTEDEMI**
+
+COTEDEMI is a small business cooperative at the border of the Dominican Republic/Haiti for the unbanked. 90% of members are Haitian migrants displaced by the 2010 earthquake, and the other 10% are  Dominicans that cannot access bank loans. Members receive: technical training, financial literacy training, marketing, are part of savings circles.
+
+# January-March, 2013
+
+**Intern, El Centro Bono**
+
+Organized weekly financial literacy workshops and English classes for Haitian migrants. Diagnostics of the organizational structure for 10 groups of Haitian migrants.  Investigation and compilation of the current conditions of binational and local markets of Jimaní and Malpaso.
 
