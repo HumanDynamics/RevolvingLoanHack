@@ -1,61 +1,70 @@
-# Automated Revolving Loan Fund Prototype 
+**Automated Revolving Loan Fund Prototype**
 
-This mini-research umbrella is composed of three distinct projects that are proving out the idea of an automated loan fund as an example service an automated business entity can provide.
+The automated loan fund is a law.MIT.edu open source project desiged as an example service that an automated business entity can provide.
 
-**Project Plan Format**
+* **3 Part Initial Design Pattern**:  The first part is to create a reference implementation loan fund spreadsheet and the second part is to integrate blockchain technology for a) identity (eg: Blockstack/Microsoft, uPort/ConsenSys, BanQu, etc), b) enter hash of key event onto blockchain (eg loan disbursal to borrower, loan installemnt payent to lender, loan default notice to borrower, etc), and the third part is to model an overlay of loan fund spread sheet and smart contract rules whereby collatoral is secured socially be members of a mutual credit group.
 
-Projects operating under this umbrella generally use the following formats for project plans:
+# Loan Fund Spread Sheet
 
-# Overview: Purpose and Intended Outcomes
+* A basic model using Google Sheets would be a good starting point. 
 
-# Key Use Case 01:
+* **One Tab Per Borrower**  Start with idea of using one tab per borrower relating to the current accounts of each individual borrower; and
+* **One Master tab relating to the current accounts of the overall fund**, namely: 
+* Current accounting statements (the then current balance sheet and other core accounting statements, setup to be continuously updated).  
 
-## Hypothesis
+Note: The current accounting statements can be broken into multiple tabs if needed for usability and maintainability
 
-## We Will Build
+Note: This may be migrated to a database (SQL, etc) sooner or later. 
 
-## We Know We Have Succeeded When
+# Mutual Credit Community Overlay
 
-## Use Case N: 
+After completing the above, and extending the capabilities of the above, create additional or alternative tab(s) on the spreadsheet modeling a way for members of a saving circle community to guarentee one or more loans issued to one or more members of the circe; including:
 
-# Project Partners and Roles
+* A way to uniquely identify and state a collateral security interest in assets (eg: reserve funds, escrowed funds, collateralized/secured house/car/equipment, other secured assets, etc) 
+* The simplest, most common and rudimentary sequence of events constituting loan default and how they would be recorded in a Google sheet based upon objective events or confirmed "non-payment" events.
 
-# Project Milestones
+# Analytics and Blockchain Overlay
 
-## Launch of the Proposed Project
+## Data Enabled Business Analytics and Reporting
 
-## Agree to Project Plan
+In addition to real time and continuous accounting statements, add Master Tab's for:
 
-## Kick-Off Event to Commence the Formal Phase of the Project
+* 1) Thomas' model and current view of the "spread" and other key elements he has shown us; and 
 
-### Conduct Initial PoC Test
-
-* This phase follows a mini-project plan with start, middle and end.  By achieving each step of this mini-plan, by definition, results with the successful completion of the project proof of concept.
-
-## Midproject Review and Feedback
-
-### Review of Prototype Test Plan
-
-### Conduct and Complete the Prototype Test 
-
-* This phase like the PoC also follows a mini-project plan with start, middle and end.
-
-## Final Project Presentation and Discussion
+* 2) the core elements of Jason's model (w/r/t the min credit score needed for an applicant to receive a loan at any given time and the interest rates and other applicable terms and conditions accompanying loans, setup to be continuously updated).  
 
 
-# Attachments
+## Blockchain Propelled Identity, Evidence and Automation
 
-## Funding Sources
+* Self-Sourced Personal Identity, 
 
-This section would include the candidate funding organizations or people and the text of draft letters of intent
+* Self-Authenticating Legal Evidence 
 
-## Budget and Accounting
+* Self-Executing Automated Transactions
 
-## Staffing and Volunteers
+such that a smart contract written in Solidity and prototyped on testnet for piloting with Mist wallets can be scaffolded out and prototyped.  
 
-## Appendix 1: EG: Business, Legal and Technology Context
+# Next Steps
 
-## Appendix 2: EG: Hypothesis-Driven Prototyping and Testing
+## Initial "Hello World" Test
+
+Week of Nov 7th: Hello World initial alpha test
+
+## Life-Cycle Run Through
+
+First week of December: Full life-cycle run through
+
+## Hypothesis Testing
+
+January IAP:  Business Value Hypothesis Tested via Loan/payback of "Real Money" with integrated "Real Accounting" and transacting through "Real Blockchain".  
+
+## Field Testing
+
+Based on how the preliminary and initial testing and prototying unfold, in the Feb-April time frame we hope to field test key elements of the technology in the live production domains including for the Blockchain Border Bank project in the Dominican Republic.
+
+
+
+# Notes
 
 
 
