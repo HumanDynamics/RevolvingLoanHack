@@ -1,4 +1,25 @@
-# May 2014
+# Timeline of Caitlin's work related to the Dominican Republic:		
+		
+# Articles / Press		
+https://www.youtube.com/watch?v=v3FJLMrC9dQ		
+http://www.lehighvalleylive.com/bethlehem/index.ssf/2013/10/bethlehem_native_helps_hatian.html		
+http://wdiy.org/post/social-work-dominican-republic-discourse#stream/0		
+	
+# Current		
+law.MIT.edu / Human Dynamics Project: http://law.mit.edu/blockchainborderbank		
+ 
+# December 2015		
+ 
+**Team member, PingBlip**		
+ 
+PingBlip is an e-banking platform to generate commercial revenue for small and medium-sized businesses in the Dominican Republic. PingBlip was a finalist in the social entrepreneurship “The Venture - Chivas” competition to create a network of banking partnerships and distribution centers. This was to allow remote and low-income communities to promote their businesses in major commercial centers, and to provide a cost effective means of transferring goods and money.		
+ 
+# November 16, 2014		
+ 		
+**TedX Speaker**		
+ 		
+Shared experiences of working with Haitian refugee commnities in the Dominican Republic with a group of Haitian youth in Jacmel, Haiti. This was the first Haitian organized TedX conference (organized by Richardson Ciguene, ESIH and translated by Emilie Reiser, MIT Media Lab) 		
+Reference: https://www.ted.com/tedx/events/10999# May 2014
 
 **Project Manager Civil Innovation Lab**
 
