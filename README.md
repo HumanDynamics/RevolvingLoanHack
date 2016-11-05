@@ -2,6 +2,9 @@
 
 The automated loan fund is a law.MIT.edu open source project desiged as an example service that an automated business entity can provide.
 
+* **Slack**: The slack team for this project is: https://opencollab.slack.com
+* **For More Information**: For more information, contact us here: http://law.mit.edu/contact
+
 * **3 Part Initial Design Pattern**:  The first part is to create a reference implementation loan fund spreadsheet and the second part is to integrate blockchain technology for a) identity (eg: Blockstack/Microsoft, uPort/ConsenSys, BanQu, etc), b) enter hash of key event onto blockchain (eg loan disbursal to borrower, loan installemnt payent to lender, loan default notice to borrower, etc), and the third part is to model an overlay of loan fund spread sheet and smart contract rules whereby collatoral is secured socially be members of a mutual credit group.
 
 # Step 1: Loan Fund Spread Sheet
