@@ -4,7 +4,7 @@ The automated loan fund is a law.MIT.edu open source project desiged as an examp
 
 * **3 Part Initial Design Pattern**:  The first part is to create a reference implementation loan fund spreadsheet and the second part is to integrate blockchain technology for a) identity (eg: Blockstack/Microsoft, uPort/ConsenSys, BanQu, etc), b) enter hash of key event onto blockchain (eg loan disbursal to borrower, loan installemnt payent to lender, loan default notice to borrower, etc), and the third part is to model an overlay of loan fund spread sheet and smart contract rules whereby collatoral is secured socially be members of a mutual credit group.
 
-# Loan Fund Spread Sheet
+# Step 1: Loan Fund Spread Sheet
 
 * A basic model using Google Sheets would be a good starting point. 
 
@@ -16,12 +16,14 @@ Note: The current accounting statements can be broken into multiple tabs if need
 
 Note: This may be migrated to a database (SQL, etc) sooner or later. 
 
-# Mutual Credit Community Overlay
+# Step 2: Mutual Credit Community Overlay
 
 After completing the above, and extending the capabilities of the above, create additional or alternative tab(s) on the spreadsheet modeling a way for members of a saving circle community to guarentee one or more loans issued to one or more members of the circe; including:
 
 * A way to uniquely identify and state a collateral security interest in assets (eg: reserve funds, escrowed funds, collateralized/secured house/car/equipment, other secured assets, etc) 
 * The simplest, most common and rudimentary sequence of events constituting loan default and how they would be recorded in a Google sheet based upon objective events or confirmed "non-payment" events.
+
+Note: Other Mutual Credit overlays could include a Time Bank or other methods of activating social capital.
 
 # Analytics and Blockchain Overlay
 
