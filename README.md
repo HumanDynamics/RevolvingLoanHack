@@ -16,16 +16,7 @@ Note: The current accounting statements can be broken into multiple tabs if need
 
 Note: This may be migrated to a database (SQL, etc) sooner or later. 
 
-# Step 2: Mutual Credit Community Overlay
-
-After completing the above, and extending the capabilities of the above, create additional or alternative tab(s) on the spreadsheet modeling a way for members of a saving circle community to guarentee one or more loans issued to one or more members of the circe; including:
-
-* A way to uniquely identify and state a collateral security interest in assets (eg: reserve funds, escrowed funds, collateralized/secured house/car/equipment, other secured assets, etc) 
-* The simplest, most common and rudimentary sequence of events constituting loan default and how they would be recorded in a Google sheet based upon objective events or confirmed "non-payment" events.
-
-Note: Other Mutual Credit overlays could include a Time Bank or other methods of activating social capital.
-
-# Analytics and Blockchain Overlay
+# Step 2: Analytics and Blockchain Overlay
 
 ## Data Enabled Business Analytics and Reporting
 
@@ -46,7 +37,17 @@ In addition to real time and continuous accounting statements, add Master Tab's 
 
 such that a smart contract written in Solidity and prototyped on testnet for piloting with Mist wallets can be scaffolded out and prototyped.  
 
-# Next Steps
+
+# Step 3: Mutual Credit Community Overlay
+
+After completing the above, and extending the capabilities of the above, create additional or alternative tab(s) on the spreadsheet modeling a way for members of a saving circle community to guarentee one or more loans issued to one or more members of the circe; including:
+
+* A way to uniquely identify and state a collateral security interest in assets (eg: reserve funds, escrowed funds, collateralized/secured house/car/equipment, other secured assets, etc) 
+* The simplest, most common and rudimentary sequence of events constituting loan default and how they would be recorded in a Google sheet based upon objective events or confirmed "non-payment" events.
+
+Note: Other Mutual Credit overlays could include a Time Bank or other methods of activating social capital.
+
+# Timing and Milestones
 
 ## Initial "Hello World" Test
 
