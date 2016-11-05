@@ -19,7 +19,9 @@ PingBlip is an e-banking platform to generate commercial revenue for small and m
 **TedX Speaker**		
  		
 Shared experiences of working with Haitian refugee commnities in the Dominican Republic with a group of Haitian youth in Jacmel, Haiti. This was the first Haitian organized TedX conference (organized by Richardson Ciguene, ESIH and translated by Emilie Reiser, MIT Media Lab) 		
-Reference: https://www.ted.com/tedx/events/10999# May 2014
+Reference: https://www.ted.com/tedx/events/10999
+
+# May 2014
 
 **Project Manager Civil Innovation Lab**
 
@@ -46,6 +48,7 @@ Including focus on Legal and Judicial Innovation Workshop, hosted by the (then) 
 **Civil Society Representative**
 
 2nd action plan consultation oft he Dominican Republic's Open Government Directorate General of Government Ethics and Integrity (DIGEIG)
+
 # Feb 21, 2014
 
 **Key CIV team member** 
